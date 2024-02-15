@@ -14,11 +14,12 @@ elaboration of a social study and questionnaire for potential customers and stak
 possible risks and impacts on the installation of the product. While the increase of vegetation and the creation
 of access to fresh produce might signify an improvement, the acceptability to install these production systems
 in a person's defined as “NIMBY”.
+</p>
 This repository contains the Sirah Alpha project, which offers the following functionalities:
 - XXXX
 - XXXX
 - XXXX
-</p>
+
 ## Repository Structure
 The repository is organized as follows:
 - `docs/`: Contains the project documentation.
