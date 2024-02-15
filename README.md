@@ -59,11 +59,7 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 ## Credits
 This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB.
 
-<img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
-<img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;">
-
-<img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;">
-<img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;">
+<img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"> <img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"> <img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"> <img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;">
 
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
 
