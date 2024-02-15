@@ -1,5 +1,5 @@
 # Sirah alpha
-![Descripción de la imagen](ruta/a/la/imagen.jpg)
+![Sirah](images/enciams_recir_2.jpg)
 
 ## Description
 <p style="text-align: justify;">
@@ -19,11 +19,15 @@ This repository contains the Sirah Alpha project, which offers the following fun
 - XXXX
 - XXXX
 - XXXX
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Repository Structure
 The repository is organized as follows:
 - `docs/`: Contains the project documentation.
 - `src/`: Contains the project source code.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Installation
 To install and run this project, follow these steps:
