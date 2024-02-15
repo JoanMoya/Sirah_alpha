@@ -1,38 +1,52 @@
-# Proyecto X
+# Sirah alpha
 
-## Descripción
-Este proyecto tiene como objetivo principal [explicar brevemente su propósito].
+## Description
+The goal of the SIRAH project is to develop products and technologies from laboratory settings to market scale.
+The project is based on 2 products: SIRAH alpha and SIRH beta.
+SIRAH is an irrigation module at a prototype level development. The irrigation system has a nutrient and water
+recirculation infrastructure installed which can be monitored with an irrigation panel and a sectorization of
+water valves.
+The potential of the smart irrigation product in the marked will be made in this task. Also, a social impact
+assessment is crucial to determine the potential effect on the society of the product installation. The
+elaboration of a social study and questionnaire for potential customers and stakeholders will help preventing
+possible risks and impacts on the installation of the product. While the increase of vegetation and the creation
+of access to fresh produce might signify an improvement, the acceptability to install these production systems
+in a person's defined as “NIMBY”.
+This repository contains the Sirah Alpha project, which offers the following functionalities:
+- XXXX
+- XXXX
+- XXXX
 
-## Estructura del Repositorio
-El repositorio se organiza de la siguiente manera:
-- `docs/`: Contiene la documentación del proyecto.
-- `src/`: Contiene el código fuente del proyecto.
+## Repository Structure
+The repository is organized as follows:
+- `docs/`: Contains the project documentation.
+- `src/`: Contains the project source code.
 
-## Instalación
-Para instalar y ejecutar este proyecto, sigue los siguientes pasos:
-1. Clona este repositorio en tu máquina local.
-2. Navega al directorio del proyecto.
-3. Ejecuta [comandos necesarios para la instalación].
+## Installation
+To install and run this project, follow these steps:
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Execute [necessary installation commands].
 
-## Uso
-Para utilizar este proyecto, sigue estos pasos:
-1. [Instrucciones para utilizar el proyecto].
+## Usage
+To use this project, follow these steps:
+1. [Instructions for using the project].
 
-## Documentación
-- [Documentación general](docs/general.md)
-- [Manual de usuario](docs/manual_usuario.md)
+## Documentation
+- [General documentation](docs/general.md)
+- [User manual](docs/user_manual.md)
 - [API Reference](docs/api_reference.md)
 
-## Contribución
-¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una rama para tu contribución (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commits (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
-5. Crea un pull request en GitHub.
+## Contribution
+Contributions are welcome! If you wish to contribute to this project, follow these steps:
+1. Fork the repository.
+2. Create a branch for your contribution (`git checkout -b feature/new-feature`).
+3. Make your changes and commit (`git commit -am 'Add new feature'`).
+4. Push the branch (`git push origin feature/new-feature`).
+5. Create a pull request on GitHub.
 
-## Créditos
-Este proyecto fue desarrollado por [Nombre del equipo o desarrollador].
+## Credits
+This project was developed by [Team name or developer].
 
-## Licencia
-Este proyecto está bajo la licencia [Tipo de licencia]. Consulta el archivo LICENSE.md para más detalles.
+## License
+This project is licensed under the [License type]. See the LICENSE.md file for more details.
