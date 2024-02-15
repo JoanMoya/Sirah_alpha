@@ -1,0 +1,11 @@
+option,day,kc,remaining,progress,ETc,ET0,dailyirrigationtimes,irrigation
+2.0,43,0.72,32,57.333333333333336,5.63,7.038,7.0,50.67
+2.0,43,0.72,32,57.333333333333336,5.63,7.038,7.0,50.67
+3.0,43,0.8,47,47.77777777777778,6.256,7.038,7.0,56.3
+2.0,43,0.72,32,57.333333333333336,5.63,7.038,7.0,50.67
+2.0,45,0.78,30,60.0,3.341,3.854,4.0,30.07
+1.0,16,0.15,164,8.88888888888889,1.047,6.281,6.0,9.42
+1.0,18,0.15,162,10.0,0.642,3.854,4.0,3.85
+1.0,20,0.15,160,11.11111111111111,0.642,3.854,4.0,3.85
+1.0,28,0.15,<bound method Line.RemainingDays of <SRH.Line.Line object at 0xb38b7d60>>,<bound method Line.Progress of <SRH.Line.Line object at 0xb38b7d60>>,0.76,5.352,<bound method Line.DailyIrrigationTimes of <SRH.Line.Line object at 0xb38b7d60>>,5.35,0.0
+1.0,30,0.15,<bound method Line.RemainingDays of <SRH.Line.Line object at 0xf4177e08>>,<bound method Line.Progress of <SRH.Line.Line object at 0xf4177e08>>,0.642,5.352,<bound method Line.DailyIrrigationTimes of <SRH.Line.Line object at 0xf4177e08>>,5.35,0.0

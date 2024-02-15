@@ -1,0 +1,4 @@
+from SRH import LogScheduledIrrigation
+
+ScheduledIrrigationProcess=LogScheduledIrrigation()
+ScheduledIrrigationProcess.IrrigationActions()

@@ -1,0 +1,2722 @@
+On: 2023-02-27 10:28:07.611627
+On: 2023-02-27 10:36:43.929839
+On: 2023-02-27 10:38:14.974007
+On: 2023-02-27 10:38:23.941008
+On: 2023-02-27 10:40:26.450389
+On: 2023-02-27 10:41:55.497253
+On: 2023-02-27 10:42:36.505924
+On: 2023-02-27 10:48:00.022103
+On: 2023-02-27 12:23:24.890826
+On: 2023-02-27 12:24:38.957421
+On: 2023-02-27 12:26:39.988419
+On: 2023-02-27 12:28:36.736861
+On: 2023-02-27 12:33:15.353497
+On: 2023-02-27 12:34:30.688595
+On: 2023-02-27 12:41:24.352012
+On: 2023-02-27 12:43:19.381840
+On: 2023-02-27 12:49:07.022611
+On: 2023-02-27 12:49:08.597146
+On: 2023-02-27 14:42:38.664601
+On: 2023-02-27 14:48:10.554780
+On: 2023-02-27 14:49:15.070223
+On: 2023-02-27 14:56:56.769197
+On: 2023-02-27 14:57:35.089487
+On: 2023-02-27 14:59:11.305903
+On: 2023-02-27 15:00:51.162597
+On: 2023-02-27 15:03:25.618593
+On: 2023-02-27 15:07:50.713535
+On: 2023-02-27 15:16:06.084843
+On: 2023-02-27 15:16:31.975446
+On: 2023-02-27 15:17:25.687536
+On: 2023-02-27 15:18:23.008447
+On: 2023-02-27 15:28:39.695103
+On: 2023-02-27 15:36:13.679958
+On: 2023-02-27 15:36:50.439562
+On: 2023-02-27 15:40:57.093884
+On: 2023-02-27 15:41:26.388688
+On: 2023-02-27 15:45:27.720718
+On: 2023-02-27 15:49:22.876173
+On: 2023-02-27 15:50:18.926349
+On: 2023-02-27 15:50:40.848162
+On: 2023-02-27 15:51:05.130232
+On: 2023-02-27 15:52:10.797966
+On: 2023-02-27 15:53:12.684838
+On: 2023-02-27 16:03:21.442454
+On: 2023-02-27 16:03:56.300864
+On: 2023-02-27 16:10:42.505503
+On: 2023-02-27 16:10:56.039820
+On: 2023-02-27 16:11:39.120012
+On: 2023-02-27 16:13:27.523095
+On: 2023-02-27 16:16:44.486651
+On: 2023-02-27 16:17:23.078777
+On: 2023-02-27 16:19:32.684741
+On: 2023-02-27 16:21:20.376256
+On: 2023-02-27 16:25:14.807609
+On: 2023-02-27 16:31:59.591653
+On: 2023-02-27 16:34:07.344291
+On: 2023-02-27 16:37:55.390741
+On: 2023-02-27 16:41:09.651354
+On: 2023-02-27 16:44:52.521507
+On: 2023-02-27 16:46:36.760300
+On: 2023-02-27 17:00:16.432530
+On: 2023-02-27 17:03:55.486222
+On: 2023-02-28 14:52:35.995810
+On: 2023-02-28 14:54:14.891230
+On: 2023-02-28 14:54:32.020328
+On: 2023-02-28 14:55:20.506272
+On: 2023-02-28 14:57:25.244210
+On: 2023-02-28 15:14:57.499661
+On: 2023-02-28 15:15:44.830257
+Calculating Kc at:2023-03-09 10:59:17.584573
+New Kc:32
+Calculating Kc at: 2023-03-09 11:16:20.404724
+New Kc:32
+Calculating Kc at: 2023-03-09 11:17:04.403688
+New Kc:32
+Calculating Kc at: 2023-03-09 11:17:54.299429
+New Kc:32
+On: 2023-03-09 15:05:52.110769
+On: 2023-03-09 15:07:03.689265
+On: 2023-03-09 15:07:30.397775
+On: 2023-03-09 15:07:47.352859
+On: 2023-03-09 15:10:32.368120
+On: 2023-03-09 15:12:17.906198
+On: 2023-03-09 15:12:43.918611
+On: 2023-03-09 15:28:28.357734
+On: 2023-03-09 15:28:59.010776
+On: 2023-03-09 15:31:52.680206
+On: 2023-03-09 15:32:31.740324
+On: 2023-03-09 15:33:20.115564
+On: 2023-03-09 15:33:26.906286
+On: 2023-03-09 15:35:39.500313
+On: 2023-03-09 15:37:11.528981
+On: 2023-03-09 15:38:47.844342
+On: 2023-03-09 15:42:33.174888
+On: 2023-03-09 15:44:20.775408
+On: 2023-03-09 15:45:33.339596
+On: 2023-03-09 15:47:24.556485
+On: 2023-03-09 15:47:33.511204
+On: 2023-03-09 15:55:34.573342
+On: 2023-03-09 16:00:41.010302
+On: 2023-03-09 16:04:57.415991
+On: 2023-03-09 16:06:04.483771
+On: 2023-03-09 16:08:42.865527
+On: 2023-03-09 16:13:26.967986
+On: 2023-03-09 16:56:27.891518
+On: 2023-03-09 16:58:09.328224
+On: 2023-03-09 17:00:30.399405
+On: 2023-03-09 17:01:00.301467
+On: 2023-03-09 17:07:56.755609
+On: 2023-03-09 17:41:14.851368
+On: 2023-03-09 20:21:08.255928
+On: 2023-03-09 23:29:39.750560
+On: 2023-03-10 00:10:18.851129
+On: 2023-03-10 00:10:23.445080
+On: 2023-03-10 00:11:57.190638
+On: 2023-03-10 00:13:58.785984
+On: 2023-03-10 00:16:23.923792
+On: 2023-03-10 00:20:06.736322
+On: 2023-03-10 00:25:31.781931
+On: 2023-03-10 00:26:18.234285
+On: 2023-03-10 00:27:29.877161
+On: 2023-03-10 00:29:19.668223
+Calculating Kc for Line L1: 2023-03-10 00:29:26.933105
+New Kc for Line L1: 0.705
+Calculating Kc for Line L2: 2023-03-10 00:30:03.247220
+New Kc for Line L2: 0.705
+Calculating Kc for Line L3: 2023-03-10 00:30:03.295340
+New Kc for Line L3: 0.705
+Calculating Kc for Line L4: 2023-03-10 00:30:03.346668
+New Kc for Line L4: 0.705
+On: 2023-03-10 00:32:01.792029
+On: 2023-03-10 09:37:21.010346
+On: 2023-03-10 10:17:24.268617
+On: 2023-03-10 10:34:42.746003
+Vector incomplet rebut: 2023-03-10 10:52:33.921018
+Vector incomplet rebut: 1 - 1
+On: 2023-03-10 13:39:05.491335
+Vector incomplet rebut: 2023-03-10 13:40:39.027083
+Vector incomplet rebut: 1 - 1
+On: 2023-03-10 13:41:50.289852
+Vector incomplet rebut: 2023-03-10 13:46:44.734328
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-10 13:47:10.801440
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-10 13:48:37.266185
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-10 13:50:23.653252
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-10 13:53:02.323701
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-10 13:59:04.120182
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-10 14:10:27.256008
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-10 14:22:20.350399
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-10 14:23:26.521132
+Vector incomplet rebut: 1 - 9
+On: 2023-03-10 14:37:14.474544
+Vector incomplet rebut: 2023-03-10 14:37:51.772711
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-10 14:50:12.581602
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-10 14:54:55.636163
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-10 14:58:46.573549
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-10 15:07:34.902869
+Vector incomplet rebut: 1 - 5
+On: 2023-03-10 15:20:13.038383
+Vector incomplet rebut: 2023-03-10 15:26:01.818671
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-10 15:30:47.314706
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-10 15:31:11.544213
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-10 15:35:24.858499
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-10 15:36:21.202073
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-10 15:41:51.124598
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-10 15:42:53.473832
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-10 15:47:43.131581
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-10 15:55:31.449098
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-10 16:04:31.572569
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-10 16:05:11.826987
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-10 16:08:56.994077
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-10 16:12:48.592260
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-10 16:13:16.715712
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-10 16:27:36.618382
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-10 16:28:51.004595
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-10 16:29:49.260293
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-10 16:32:40.053592
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-10 16:34:26.633932
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-10 16:39:26.358939
+Vector incomplet rebut: 1 - 20
+On: 2023-03-10 17:07:48.384887
+Vector incomplet rebut: 2023-03-10 17:09:46.185816
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-10 17:26:17.202049
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-10 17:28:21.817087
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-10 17:29:18.053571
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-10 17:31:58.953928
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-10 17:32:47.359431
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-10 17:37:52.589767
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-10 17:38:28.697658
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-10 17:40:59.441460
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-10 17:44:22.461099
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-10 17:47:19.140097
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-10 17:47:45.307120
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-10 17:57:06.086784
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-10 18:01:55.217509
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-10 18:08:57.375191
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-10 18:14:04.511822
+Vector incomplet rebut: 1 - 16
+On: 2023-03-10 18:19:24.181524
+Vector incomplet rebut: 2023-03-10 18:26:00.971274
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-10 18:29:41.917387
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-10 18:47:20.905578
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-10 18:51:26.286163
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-10 18:56:30.122375
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-10 18:56:44.157371
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-10 18:58:28.548274
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-10 19:05:12.360213
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-10 19:16:16.050065
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-10 19:19:46.967298
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-10 19:39:47.823418
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-10 19:41:26.539935
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-10 19:50:45.783148
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-10 19:51:28.059348
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-10 19:51:44.135961
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-10 20:01:56.964041
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-10 20:04:01.514398
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-10 20:11:05.498844
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-10 20:14:32.452556
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-10 20:36:58.860951
+Vector incomplet rebut: 1 - 20
+Vector incomplet rebut: 2023-03-10 20:43:43.132468
+Vector incomplet rebut: 1 - 21
+Vector incomplet rebut: 2023-03-10 20:44:17.331050
+Vector incomplet rebut: 1 - 22
+Vector incomplet rebut: 2023-03-10 20:53:09.832009
+Vector incomplet rebut: 1 - 23
+Vector incomplet rebut: 2023-03-10 21:05:13.416137
+Vector incomplet rebut: 1 - 24
+Vector incomplet rebut: 2023-03-10 21:06:09.570187
+Vector incomplet rebut: 1 - 25
+Vector incomplet rebut: 2023-03-10 21:09:36.665610
+Vector incomplet rebut: 1 - 26
+Vector incomplet rebut: 2023-03-10 21:15:38.186935
+Vector incomplet rebut: 1 - 27
+Vector incomplet rebut: 2023-03-10 21:17:24.795791
+Vector incomplet rebut: 1 - 28
+Vector incomplet rebut: 2023-03-10 21:25:47.523270
+Vector incomplet rebut: 1 - 29
+Vector incomplet rebut: 2023-03-10 21:27:56.188935
+Vector incomplet rebut: 1 - 30
+Vector incomplet rebut: 2023-03-10 21:28:18.302532
+Vector incomplet rebut: 1 - 31
+Vector incomplet rebut: 2023-03-10 21:34:58.536181
+Vector incomplet rebut: 1 - 32
+Vector incomplet rebut: 2023-03-10 21:38:13.713294
+Vector incomplet rebut: 1 - 33
+Vector incomplet rebut: 2023-03-10 21:58:39.900953
+Vector incomplet rebut: 1 - 34
+Vector incomplet rebut: 2023-03-10 22:01:22.762689
+Vector incomplet rebut: 1 - 35
+Vector incomplet rebut: 2023-03-10 22:04:55.604546
+Vector incomplet rebut: 1 - 36
+On: 2023-03-11 02:15:53.293663
+On: 2023-03-11 02:25:38.588058
+Calculating Kc for Line L1: 2023-03-11 02:25:39.530163
+New Kc for Line L1: 0.709
+Calculating Kc for Line L2: 2023-03-11 02:25:39.567158
+New Kc for Line L2: 0.709
+Calculating Kc for Line L3: 2023-03-11 02:25:39.591487
+New Kc for Line L3: 0.804
+Calculating Kc for Line L4: 2023-03-11 02:25:39.615545
+New Kc for Line L4: 0.709
+Vector incomplet rebut: 2023-03-11 02:27:54.479041
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-11 02:31:17.202195
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-11 02:39:05.382903
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-11 02:47:26.152319
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-11 02:49:32.774203
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-11 03:06:25.585902
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-11 03:06:59.878756
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-11 03:14:04.857456
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-11 03:16:59.729462
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-11 03:18:16.125950
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-11 03:22:53.500180
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-11 03:26:26.668358
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-11 03:29:27.495950
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-11 03:31:37.904453
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-11 03:37:59.788306
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-11 03:44:39.597080
+Vector incomplet rebut: 1 - 16
+On: 2023-03-11 04:04:16.871527
+On: 2023-03-11 04:05:10.253415
+On: 2023-03-11 04:06:10.696411
+On: 2023-03-11 04:07:05.914703
+On: 2023-03-11 04:07:50.881755
+Vector incomplet rebut: 2023-03-11 04:08:06.037889
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-11 04:08:16.114652
+Vector incomplet rebut: 1 - 2
+On: 2023-03-11 04:14:19.309783
+On: 2023-03-11 04:15:29.860046
+Vector incomplet rebut: 2023-03-11 04:23:23.359010
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-11 04:23:29.374488
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-11 04:25:43.882767
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-11 04:33:41.705805
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-11 04:35:50.818471
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-11 04:36:10.973510
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-11 04:53:27.701129
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-11 04:56:43.728604
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-11 05:00:00.967262
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-11 05:01:51.766116
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-11 05:08:24.869300
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-11 05:13:43.807670
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-11 05:15:42.671817
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-11 05:18:34.147460
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-11 05:27:00.226841
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-11 05:32:33.081850
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-11 05:35:07.392445
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-11 05:36:03.920034
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-11 05:40:26.780661
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-11 05:46:42.707282
+Vector incomplet rebut: 1 - 20
+Vector incomplet rebut: 2023-03-11 05:49:44.314058
+Vector incomplet rebut: 1 - 21
+Vector incomplet rebut: 2023-03-11 05:50:14.620127
+Vector incomplet rebut: 1 - 22
+Vector incomplet rebut: 2023-03-11 05:55:12.192264
+Vector incomplet rebut: 1 - 23
+Vector incomplet rebut: 2023-03-11 06:15:44.861305
+Vector incomplet rebut: 1 - 24
+Vector incomplet rebut: 2023-03-11 06:16:31.327635
+Vector incomplet rebut: 1 - 25
+Vector incomplet rebut: 2023-03-11 06:18:32.731388
+Vector incomplet rebut: 1 - 26
+Vector incomplet rebut: 2023-03-11 06:22:14.626368
+Vector incomplet rebut: 1 - 27
+Vector incomplet rebut: 2023-03-11 06:25:32.741378
+Vector incomplet rebut: 1 - 28
+Vector incomplet rebut: 2023-03-11 06:38:44.550689
+Vector incomplet rebut: 1 - 29
+Vector incomplet rebut: 2023-03-11 06:42:12.400835
+Vector incomplet rebut: 1 - 30
+Vector incomplet rebut: 2023-03-11 06:47:00.783088
+Vector incomplet rebut: 1 - 31
+Vector incomplet rebut: 2023-03-11 06:52:13.813310
+Vector incomplet rebut: 1 - 32
+Vector incomplet rebut: 2023-03-11 06:59:03.376892
+Vector incomplet rebut: 1 - 33
+Vector incomplet rebut: 2023-03-11 06:59:27.616915
+Vector incomplet rebut: 1 - 34
+Vector incomplet rebut: 2023-03-11 07:00:10.353372
+Vector incomplet rebut: 1 - 35
+Vector incomplet rebut: 2023-03-11 07:01:22.800613
+Vector incomplet rebut: 1 - 36
+Vector incomplet rebut: 2023-03-11 07:03:33.838436
+Vector incomplet rebut: 1 - 37
+Vector incomplet rebut: 2023-03-11 07:04:52.832858
+Vector incomplet rebut: 1 - 38
+Vector incomplet rebut: 2023-03-11 07:06:03.615118
+Vector incomplet rebut: 1 - 39
+Vector incomplet rebut: 2023-03-11 07:14:29.878363
+Vector incomplet rebut: 1 - 40
+Vector incomplet rebut: 2023-03-11 07:17:13.063860
+Vector incomplet rebut: 1 - 41
+Vector incomplet rebut: 2023-03-11 07:18:31.821051
+Vector incomplet rebut: 1 - 42
+Vector incomplet rebut: 2023-03-11 07:31:03.261199
+Vector incomplet rebut: 1 - 43
+Vector incomplet rebut: 2023-03-11 07:32:28.249911
+Vector incomplet rebut: 1 - 44
+Vector incomplet rebut: 2023-03-11 07:34:08.812397
+Vector incomplet rebut: 1 - 45
+Vector incomplet rebut: 2023-03-11 07:38:45.621486
+Vector incomplet rebut: 1 - 46
+Vector incomplet rebut: 2023-03-11 07:51:11.646241
+Vector incomplet rebut: 1 - 47
+Vector incomplet rebut: 2023-03-11 07:55:02.170190
+Vector incomplet rebut: 1 - 48
+Vector incomplet rebut: 2023-03-11 07:57:03.118624
+Vector incomplet rebut: 1 - 49
+Vector incomplet rebut: 2023-03-11 08:10:03.883394
+Vector incomplet rebut: 1 - 50
+Vector incomplet rebut: 2023-03-11 08:11:54.665917
+Vector incomplet rebut: 1 - 51
+Vector incomplet rebut: 2023-03-11 08:17:25.942414
+Vector incomplet rebut: 1 - 52
+Vector incomplet rebut: 2023-03-11 08:21:01.714874
+Vector incomplet rebut: 1 - 53
+Vector incomplet rebut: 2023-03-11 08:24:23.096822
+Vector incomplet rebut: 1 - 54
+Vector incomplet rebut: 2023-03-11 08:25:56.034290
+Vector incomplet rebut: 1 - 55
+Vector incomplet rebut: 2023-03-11 08:32:45.406937
+Vector incomplet rebut: 1 - 56
+Vector incomplet rebut: 2023-03-11 08:33:46.185710
+Vector incomplet rebut: 1 - 57
+Vector incomplet rebut: 2023-03-11 08:35:15.382741
+Vector incomplet rebut: 1 - 58
+Vector incomplet rebut: 2023-03-11 08:41:32.460152
+Vector incomplet rebut: 1 - 59
+Vector incomplet rebut: 2023-03-11 08:53:13.785940
+Vector incomplet rebut: 1 - 60
+Vector incomplet rebut: 2023-03-11 08:53:59.985439
+Vector incomplet rebut: 1 - 61
+Vector incomplet rebut: 2023-03-11 08:54:32.436143
+Vector incomplet rebut: 1 - 62
+Vector incomplet rebut: 2023-03-11 08:59:45.661146
+Vector incomplet rebut: 1 - 63
+Vector incomplet rebut: 2023-03-11 09:03:45.667928
+Vector incomplet rebut: 1 - 64
+Vector incomplet rebut: 2023-03-11 09:09:14.118590
+Vector incomplet rebut: 1 - 65
+Vector incomplet rebut: 2023-03-11 09:11:02.968608
+Vector incomplet rebut: 1 - 66
+Vector incomplet rebut: 2023-03-11 09:17:30.237168
+Vector incomplet rebut: 1 - 67
+Vector incomplet rebut: 2023-03-11 09:21:02.617565
+Vector incomplet rebut: 1 - 68
+Vector incomplet rebut: 2023-03-11 09:31:02.156750
+Vector incomplet rebut: 1 - 69
+Vector incomplet rebut: 2023-03-11 09:35:21.832712
+Vector incomplet rebut: 1 - 70
+Vector incomplet rebut: 2023-03-11 09:38:10.257141
+Vector incomplet rebut: 1 - 71
+Vector incomplet rebut: 2023-03-11 09:39:02.813323
+Vector incomplet rebut: 1 - 72
+Vector incomplet rebut: 2023-03-11 09:40:04.076630
+Vector incomplet rebut: 1 - 73
+Vector incomplet rebut: 2023-03-11 09:44:43.353058
+Vector incomplet rebut: 1 - 74
+Vector incomplet rebut: 2023-03-11 09:52:52.632383
+Vector incomplet rebut: 1 - 75
+Vector incomplet rebut: 2023-03-11 09:53:02.658931
+Vector incomplet rebut: 1 - 76
+Vector incomplet rebut: 2023-03-11 09:54:59.009096
+Vector incomplet rebut: 1 - 77
+Vector incomplet rebut: 2023-03-11 09:56:19.901056
+Vector incomplet rebut: 1 - 78
+Vector incomplet rebut: 2023-03-11 09:56:34.030779
+Vector incomplet rebut: 1 - 79
+Vector incomplet rebut: 2023-03-11 09:57:41.001653
+Vector incomplet rebut: 1 - 80
+Vector incomplet rebut: 2023-03-11 10:00:25.425286
+Vector incomplet rebut: 1 - 81
+Vector incomplet rebut: 2023-03-11 10:06:42.990298
+Vector incomplet rebut: 1 - 82
+Vector incomplet rebut: 2023-03-11 10:07:33.597163
+Vector incomplet rebut: 1 - 83
+Vector incomplet rebut: 2023-03-11 10:12:44.502603
+Vector incomplet rebut: 1 - 84
+Vector incomplet rebut: 2023-03-11 10:18:01.922767
+Vector incomplet rebut: 1 - 85
+Vector incomplet rebut: 2023-03-11 10:21:27.465846
+Vector incomplet rebut: 1 - 86
+Vector incomplet rebut: 2023-03-11 10:22:30.342833
+Vector incomplet rebut: 1 - 87
+Vector incomplet rebut: 2023-03-11 10:27:21.551241
+Vector incomplet rebut: 1 - 88
+Vector incomplet rebut: 2023-03-11 10:29:28.929689
+Vector incomplet rebut: 1 - 89
+Vector incomplet rebut: 2023-03-11 10:29:41.061151
+Vector incomplet rebut: 1 - 90
+Vector incomplet rebut: 2023-03-11 10:30:48.351544
+Vector incomplet rebut: 1 - 91
+Vector incomplet rebut: 2023-03-11 10:32:02.932099
+Vector incomplet rebut: 1 - 92
+Vector incomplet rebut: 2023-03-11 10:33:17.685026
+Vector incomplet rebut: 1 - 93
+Vector incomplet rebut: 2023-03-11 10:35:21.120427
+Vector incomplet rebut: 1 - 94
+Vector incomplet rebut: 2023-03-11 10:35:33.258176
+Vector incomplet rebut: 1 - 95
+Vector incomplet rebut: 2023-03-11 10:44:51.742482
+Vector incomplet rebut: 1 - 96
+Vector incomplet rebut: 2023-03-11 10:46:12.640446
+Vector incomplet rebut: 1 - 97
+Vector incomplet rebut: 2023-03-11 10:49:32.253430
+Vector incomplet rebut: 1 - 98
+Vector incomplet rebut: 2023-03-11 10:50:57.059768
+Vector incomplet rebut: 1 - 99
+Vector incomplet rebut: 2023-03-11 10:53:03.835447
+Vector incomplet rebut: 1 - 100
+Vector incomplet rebut: 2023-03-11 10:54:01.996580
+Vector incomplet rebut: 1 - 101
+Vector incomplet rebut: 2023-03-11 10:55:26.784635
+Vector incomplet rebut: 1 - 102
+Vector incomplet rebut: 2023-03-11 10:57:21.841809
+Vector incomplet rebut: 1 - 103
+Vector incomplet rebut: 2023-03-11 11:00:03.319543
+Vector incomplet rebut: 1 - 104
+Vector incomplet rebut: 2023-03-11 11:00:25.704326
+Vector incomplet rebut: 1 - 105
+Vector incomplet rebut: 2023-03-11 11:01:02.318665
+Vector incomplet rebut: 1 - 106
+Vector incomplet rebut: 2023-03-11 11:03:41.560544
+Vector incomplet rebut: 1 - 107
+Vector incomplet rebut: 2023-03-11 11:04:03.632262
+Vector incomplet rebut: 1 - 108
+Vector incomplet rebut: 2023-03-11 11:04:09.673675
+Vector incomplet rebut: 1 - 109
+Vector incomplet rebut: 2023-03-11 11:04:56.264292
+Vector incomplet rebut: 1 - 110
+Vector incomplet rebut: 2023-03-11 11:08:22.145760
+Vector incomplet rebut: 1 - 111
+Vector incomplet rebut: 2023-03-11 11:08:56.414915
+Vector incomplet rebut: 1 - 112
+Vector incomplet rebut: 2023-03-11 11:10:51.167695
+Vector incomplet rebut: 1 - 113
+Vector incomplet rebut: 2023-03-11 11:18:46.800837
+Vector incomplet rebut: 1 - 114
+Vector incomplet rebut: 2023-03-11 11:18:54.869740
+Vector incomplet rebut: 1 - 115
+Vector incomplet rebut: 2023-03-11 11:26:17.953599
+Vector incomplet rebut: 1 - 116
+Vector incomplet rebut: 2023-03-11 11:29:21.322417
+Vector incomplet rebut: 1 - 117
+Vector incomplet rebut: 2023-03-11 11:34:46.221971
+Vector incomplet rebut: 1 - 118
+Vector incomplet rebut: 2023-03-11 11:35:12.500122
+Vector incomplet rebut: 1 - 119
+Vector incomplet rebut: 2023-03-11 11:35:20.590530
+Vector incomplet rebut: 1 - 120
+Vector incomplet rebut: 2023-03-11 11:36:19.000810
+Vector incomplet rebut: 1 - 121
+Vector incomplet rebut: 2023-03-11 11:36:43.152183
+Vector incomplet rebut: 1 - 122
+Vector incomplet rebut: 2023-03-11 11:37:13.572461
+Vector incomplet rebut: 1 - 123
+Vector incomplet rebut: 2023-03-11 11:42:33.712988
+Vector incomplet rebut: 1 - 124
+Vector incomplet rebut: 2023-03-11 11:50:09.884835
+Vector incomplet rebut: 1 - 125
+Vector incomplet rebut: 2023-03-11 12:28:03.438182
+Vector incomplet rebut: 1 - 126
+Vector incomplet rebut: 2023-03-11 12:29:28.123838
+Vector incomplet rebut: 1 - 127
+Vector incomplet rebut: 2023-03-11 12:43:22.058234
+Vector incomplet rebut: 1 - 128
+Vector incomplet rebut: 2023-03-11 12:46:16.713680
+Vector incomplet rebut: 1 - 129
+Vector incomplet rebut: 2023-03-11 13:01:53.727305
+Vector incomplet rebut: 1 - 130
+Vector incomplet rebut: 2023-03-11 13:03:00.365381
+Vector incomplet rebut: 1 - 131
+Vector incomplet rebut: 2023-03-11 13:05:09.053694
+Vector incomplet rebut: 1 - 132
+Vector incomplet rebut: 2023-03-11 13:05:29.542568
+Vector incomplet rebut: 1 - 133
+Vector incomplet rebut: 2023-03-11 13:21:28.273085
+Vector incomplet rebut: 1 - 134
+Vector incomplet rebut: 2023-03-11 13:24:00.830053
+Vector incomplet rebut: 1 - 135
+Vector incomplet rebut: 2023-03-11 13:24:26.944438
+Vector incomplet rebut: 1 - 136
+Vector incomplet rebut: 2023-03-11 13:28:39.885685
+Vector incomplet rebut: 1 - 137
+Vector incomplet rebut: 2023-03-11 13:31:08.382377
+Vector incomplet rebut: 1 - 138
+Vector incomplet rebut: 2023-03-11 13:35:27.378467
+Vector incomplet rebut: 1 - 139
+Vector incomplet rebut: 2023-03-11 13:38:06.559422
+Vector incomplet rebut: 1 - 140
+Vector incomplet rebut: 2023-03-11 13:41:17.303894
+Vector incomplet rebut: 1 - 141
+Vector incomplet rebut: 2023-03-11 13:42:35.665645
+Vector incomplet rebut: 1 - 142
+Vector incomplet rebut: 2023-03-11 13:44:57.053218
+Vector incomplet rebut: 1 - 143
+Vector incomplet rebut: 2023-03-11 13:45:43.390026
+Vector incomplet rebut: 1 - 144
+Vector incomplet rebut: 2023-03-11 13:46:27.699040
+Vector incomplet rebut: 1 - 145
+Vector incomplet rebut: 2023-03-11 13:51:40.393565
+Vector incomplet rebut: 1 - 146
+Vector incomplet rebut: 2023-03-11 13:55:42.608055
+Vector incomplet rebut: 1 - 147
+Vector incomplet rebut: 2023-03-11 13:55:56.831020
+Vector incomplet rebut: 1 - 148
+Vector incomplet rebut: 2023-03-11 13:56:45.236668
+Vector incomplet rebut: 1 - 149
+Vector incomplet rebut: 2023-03-11 13:58:44.560326
+Vector incomplet rebut: 1 - 150
+Vector incomplet rebut: 2023-03-11 13:59:49.276026
+Vector incomplet rebut: 1 - 151
+Vector incomplet rebut: 2023-03-11 14:00:27.646144
+Vector incomplet rebut: 1 - 152
+Vector incomplet rebut: 2023-03-11 14:03:00.562721
+Vector incomplet rebut: 1 - 153
+Vector incomplet rebut: 2023-03-11 14:06:25.734804
+Vector incomplet rebut: 1 - 154
+Vector incomplet rebut: 2023-03-11 14:08:06.421684
+Vector incomplet rebut: 1 - 155
+Vector incomplet rebut: 2023-03-11 14:09:21.263904
+Vector incomplet rebut: 1 - 156
+Vector incomplet rebut: 2023-03-11 14:12:16.363545
+Vector incomplet rebut: 1 - 157
+Vector incomplet rebut: 2023-03-11 14:13:32.590094
+Vector incomplet rebut: 1 - 158
+Vector incomplet rebut: 2023-03-11 14:15:09.362928
+Vector incomplet rebut: 1 - 159
+Vector incomplet rebut: 2023-03-11 14:15:55.769552
+Vector incomplet rebut: 1 - 160
+Vector incomplet rebut: 2023-03-11 14:16:33.864092
+Vector incomplet rebut: 1 - 161
+Vector incomplet rebut: 2023-03-11 14:20:23.383904
+Vector incomplet rebut: 1 - 162
+Vector incomplet rebut: 2023-03-11 14:25:01.682023
+Vector incomplet rebut: 1 - 163
+Vector incomplet rebut: 2023-03-11 14:26:18.186142
+Vector incomplet rebut: 1 - 164
+Vector incomplet rebut: 2023-03-11 14:27:26.597585
+Vector incomplet rebut: 1 - 165
+Vector incomplet rebut: 2023-03-11 14:29:11.344061
+Vector incomplet rebut: 1 - 166
+Vector incomplet rebut: 2023-03-11 14:29:25.465613
+Vector incomplet rebut: 1 - 167
+Vector incomplet rebut: 2023-03-11 14:35:17.644282
+Vector incomplet rebut: 1 - 168
+Vector incomplet rebut: 2023-03-11 14:40:17.062438
+Vector incomplet rebut: 1 - 169
+Vector incomplet rebut: 2023-03-11 14:46:10.114558
+Vector incomplet rebut: 1 - 170
+Vector incomplet rebut: 2023-03-11 14:48:03.139576
+Vector incomplet rebut: 1 - 171
+Vector incomplet rebut: 2023-03-11 14:48:55.296083
+Vector incomplet rebut: 1 - 172
+Vector incomplet rebut: 2023-03-11 14:53:33.432582
+Vector incomplet rebut: 1 - 173
+Vector incomplet rebut: 2023-03-11 14:53:47.674626
+Vector incomplet rebut: 1 - 174
+Vector incomplet rebut: 2023-03-11 14:55:46.578764
+Vector incomplet rebut: 1 - 175
+Vector incomplet rebut: 2023-03-11 14:56:19.130763
+Vector incomplet rebut: 1 - 176
+Vector incomplet rebut: 2023-03-11 14:57:13.497270
+Vector incomplet rebut: 1 - 177
+Vector incomplet rebut: 2023-03-11 15:04:00.956485
+Vector incomplet rebut: 1 - 178
+Vector incomplet rebut: 2023-03-11 15:07:13.988710
+Vector incomplet rebut: 1 - 179
+Vector incomplet rebut: 2023-03-11 15:07:46.157042
+Vector incomplet rebut: 1 - 180
+Vector incomplet rebut: 2023-03-11 15:18:10.927657
+Vector incomplet rebut: 1 - 181
+Vector incomplet rebut: 2023-03-11 15:40:18.026828
+Vector incomplet rebut: 1 - 182
+Vector incomplet rebut: 2023-03-11 15:41:52.454083
+Vector incomplet rebut: 1 - 183
+Vector incomplet rebut: 2023-03-11 15:41:56.469985
+Vector incomplet rebut: 1 - 184
+On: 2023-03-11 16:35:17.733760
+On: 2023-03-11 16:36:18.848891
+On: 2023-03-11 17:02:32.661511
+On: 2023-03-11 17:06:43.042556
+On: 2023-03-11 17:08:14.275444
+On: 2023-03-11 17:09:09.623829
+On: 2023-03-11 17:44:36.048737
+On: 2023-03-11 17:47:46.038685
+On: 2023-03-11 17:50:36.572415
+On: 2023-03-11 17:51:57.850057
+Vector incomplet rebut: 2023-03-11 17:52:27.040896
+Vector incomplet rebut: 1 - 1
+On: 2023-03-11 17:54:37.838261
+Vector incomplet rebut: 2023-03-11 17:55:39.408615
+Vector incomplet rebut: 1 - 1
+On: 2023-03-11 17:57:16.070296
+On: 2023-03-11 17:58:42.888827
+On: 2023-03-12 19:33:07.485555
+On: 2023-03-12 19:34:11.247098
+On: 2023-03-12 19:35:05.015157
+Calculating Kc for Line L1: 2023-03-12 19:35:05.939494
+New Kc for Line L1: 0.617
+Calculating Kc for Line L2: 2023-03-12 19:35:05.968014
+New Kc for Line L2: 0.617
+Calculating Kc for Line L3: 2023-03-12 19:35:05.992363
+New Kc for Line L3: 0.782
+Calculating Kc for Line L4: 2023-03-12 19:35:06.010826
+New Kc for Line L4: 0.617
+Vector incomplet rebut: 2023-03-12 19:37:56.906704
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-12 19:44:29.414666
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-12 19:53:36.587257
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-12 19:57:13.677710
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-12 20:00:22.843304
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-12 20:02:11.595449
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-12 20:03:14.244117
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-12 20:11:07.219793
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-12 20:15:00.294717
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-12 20:19:15.817860
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-12 20:25:51.575023
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-12 20:32:35.431100
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-12 20:36:37.091729
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-12 20:42:30.707373
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-12 20:44:39.618996
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-12 20:45:05.703836
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-12 20:46:52.325479
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-12 20:50:09.115730
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-12 21:04:55.649519
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-12 21:11:58.615737
+Vector incomplet rebut: 1 - 20
+Vector incomplet rebut: 2023-03-12 21:33:49.610562
+Vector incomplet rebut: 1 - 21
+Vector incomplet rebut: 2023-03-12 21:34:03.694523
+Vector incomplet rebut: 1 - 22
+Vector incomplet rebut: 2023-03-12 21:35:02.019727
+Vector incomplet rebut: 1 - 23
+Vector incomplet rebut: 2023-03-12 21:35:34.178618
+Vector incomplet rebut: 1 - 24
+On: 2023-03-13 01:12:41.217410
+On: 2023-03-13 01:19:57.466100
+On: 2023-03-13 01:21:55.504532
+Calculating Kc for Line L1: 2023-03-13 01:21:56.487197
+New Kc for Line L1: 0.789
+Calculating Kc for Line L2: 2023-03-13 01:21:56.516142
+New Kc for Line L2: 0.789
+Calculating Kc for Line L3: 2023-03-13 01:21:56.544944
+New Kc for Line L3: 1.105
+Calculating Kc for Line L4: 2023-03-13 01:21:56.567890
+New Kc for Line L4: 0.789
+Vector incomplet rebut: 2023-03-13 01:24:43.131052
+Vector incomplet rebut: 1 - 1
+On: 2023-03-13 01:27:22.077101
+On: 2023-03-13 01:30:15.170784
+On: 2023-03-13 01:33:02.333535
+Vector incomplet rebut: 2023-03-13 01:40:55.334248
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-13 01:53:05.360278
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-13 01:55:29.887755
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-13 02:09:10.322576
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-13 02:10:48.853474
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-13 02:13:49.689586
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-13 02:15:26.308996
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-13 02:15:34.330386
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-13 02:23:32.946123
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-13 02:26:39.896840
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-13 02:27:50.289603
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-13 02:34:02.335465
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-13 02:35:26.790234
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-13 02:35:50.855420
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-13 02:44:43.753835
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-13 02:51:54.115263
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-13 03:08:39.284039
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-13 03:12:24.443394
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-13 03:15:45.533961
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-13 03:20:08.965736
+Vector incomplet rebut: 1 - 20
+Vector incomplet rebut: 2023-03-13 03:20:39.093478
+Vector incomplet rebut: 1 - 21
+Vector incomplet rebut: 2023-03-13 03:21:09.198594
+Vector incomplet rebut: 1 - 22
+Vector incomplet rebut: 2023-03-13 03:24:40.200086
+Vector incomplet rebut: 1 - 23
+Vector incomplet rebut: 2023-03-13 03:32:46.871153
+Vector incomplet rebut: 1 - 24
+Vector incomplet rebut: 2023-03-13 03:38:06.332690
+Vector incomplet rebut: 1 - 25
+Vector incomplet rebut: 2023-03-13 03:39:00.504162
+Vector incomplet rebut: 1 - 26
+Vector incomplet rebut: 2023-03-13 03:40:06.816692
+Vector incomplet rebut: 1 - 27
+Vector incomplet rebut: 2023-03-13 03:40:53.087863
+Vector incomplet rebut: 1 - 28
+Vector incomplet rebut: 2023-03-13 03:41:23.215240
+Vector incomplet rebut: 1 - 29
+Vector incomplet rebut: 2023-03-13 03:47:49.277086
+Vector incomplet rebut: 1 - 30
+Vector incomplet rebut: 2023-03-13 03:53:59.019131
+Vector incomplet rebut: 1 - 31
+Vector incomplet rebut: 2023-03-13 04:14:39.299000
+Vector incomplet rebut: 1 - 32
+Vector incomplet rebut: 2023-03-13 04:21:03.351189
+Vector incomplet rebut: 1 - 33
+Vector incomplet rebut: 2023-03-13 04:25:26.588234
+Vector incomplet rebut: 1 - 34
+Vector incomplet rebut: 2023-03-13 04:25:34.615987
+Vector incomplet rebut: 1 - 35
+Vector incomplet rebut: 2023-03-13 04:27:21.097213
+Vector incomplet rebut: 1 - 36
+Vector incomplet rebut: 2023-03-13 04:40:43.104239
+Vector incomplet rebut: 1 - 37
+Vector incomplet rebut: 2023-03-13 04:48:33.459222
+Vector incomplet rebut: 1 - 38
+Vector incomplet rebut: 2023-03-13 04:58:48.482251
+Vector incomplet rebut: 1 - 39
+Vector incomplet rebut: 2023-03-13 05:00:04.863526
+Vector incomplet rebut: 1 - 40
+Vector incomplet rebut: 2023-03-13 05:03:50.069101
+Vector incomplet rebut: 1 - 41
+Vector incomplet rebut: 2023-03-13 05:06:04.784428
+Vector incomplet rebut: 1 - 42
+Vector incomplet rebut: 2023-03-13 05:07:35.177667
+Vector incomplet rebut: 1 - 43
+Vector incomplet rebut: 2023-03-13 05:08:45.538955
+Vector incomplet rebut: 1 - 44
+Vector incomplet rebut: 2023-03-13 05:14:25.303511
+Vector incomplet rebut: 1 - 45
+Vector incomplet rebut: 2023-03-13 05:14:47.356111
+Vector incomplet rebut: 1 - 46
+Vector incomplet rebut: 2023-03-13 05:19:34.779292
+Vector incomplet rebut: 1 - 47
+Vector incomplet rebut: 2023-03-13 05:23:50.012830
+Vector incomplet rebut: 1 - 48
+Vector incomplet rebut: 2023-03-13 05:24:00.033819
+Vector incomplet rebut: 1 - 49
+Vector incomplet rebut: 2023-03-13 05:44:44.982955
+Vector incomplet rebut: 1 - 50
+Vector incomplet rebut: 2023-03-13 05:57:25.381083
+Vector incomplet rebut: 1 - 51
+Vector incomplet rebut: 2023-03-13 06:43:25.630210
+Vector incomplet rebut: 1 - 52
+Vector incomplet rebut: 2023-03-13 06:47:56.808526
+Vector incomplet rebut: 1 - 53
+Vector incomplet rebut: 2023-03-13 06:48:10.843498
+Vector incomplet rebut: 1 - 54
+Vector incomplet rebut: 2023-03-13 07:24:11.565276
+Vector incomplet rebut: 1 - 55
+Vector incomplet rebut: 2023-03-13 07:38:22.857128
+Vector incomplet rebut: 1 - 56
+Vector incomplet rebut: 2023-03-13 07:51:09.981280
+Vector incomplet rebut: 1 - 57
+Vector incomplet rebut: 2023-03-13 08:14:11.864394
+Vector incomplet rebut: 1 - 58
+Vector incomplet rebut: 2023-03-13 08:25:56.632285
+Vector incomplet rebut: 1 - 59
+Vector incomplet rebut: 2023-03-13 08:30:01.739140
+Vector incomplet rebut: 1 - 60
+Vector incomplet rebut: 2023-03-13 08:32:41.304584
+Vector incomplet rebut: 1 - 61
+Vector incomplet rebut: 2023-03-13 08:33:41.672758
+Vector incomplet rebut: 1 - 62
+Vector incomplet rebut: 2023-03-13 08:37:40.342980
+Vector incomplet rebut: 1 - 63
+Vector incomplet rebut: 2023-03-13 08:46:41.269981
+Vector incomplet rebut: 1 - 64
+Vector incomplet rebut: 2023-03-13 08:47:11.686525
+Vector incomplet rebut: 1 - 65
+Vector incomplet rebut: 2023-03-13 08:47:48.417394
+Vector incomplet rebut: 1 - 66
+Vector incomplet rebut: 2023-03-13 08:50:10.610937
+Vector incomplet rebut: 1 - 67
+Vector incomplet rebut: 2023-03-13 08:52:12.297796
+Vector incomplet rebut: 1 - 68
+Vector incomplet rebut: 2023-03-13 08:53:03.046602
+Vector incomplet rebut: 1 - 69
+Vector incomplet rebut: 2023-03-13 08:53:47.599476
+Vector incomplet rebut: 1 - 70
+Vector incomplet rebut: 2023-03-13 08:58:31.855992
+Vector incomplet rebut: 1 - 71
+Vector incomplet rebut: 2023-03-13 09:00:23.458524
+Vector incomplet rebut: 1 - 72
+Vector incomplet rebut: 2023-03-13 09:00:55.644025
+Vector incomplet rebut: 1 - 73
+Vector incomplet rebut: 2023-03-13 09:06:02.777734
+Vector incomplet rebut: 1 - 74
+Vector incomplet rebut: 2023-03-13 09:08:05.865918
+Vector incomplet rebut: 1 - 75
+Vector incomplet rebut: 2023-03-13 09:09:36.444257
+Vector incomplet rebut: 1 - 76
+Vector incomplet rebut: 2023-03-13 09:10:06.710936
+Vector incomplet rebut: 1 - 77
+Vector incomplet rebut: 2023-03-13 09:13:54.481320
+Vector incomplet rebut: 1 - 78
+Vector incomplet rebut: 2023-03-13 09:14:08.671452
+Vector incomplet rebut: 1 - 79
+Vector incomplet rebut: 2023-03-13 09:20:17.243673
+Vector incomplet rebut: 1 - 80
+Vector incomplet rebut: 2023-03-13 09:21:17.542392
+Vector incomplet rebut: 1 - 81
+Vector incomplet rebut: 2023-03-13 09:23:34.949850
+Vector incomplet rebut: 1 - 82
+Vector incomplet rebut: 2023-03-13 09:26:50.178211
+Vector incomplet rebut: 1 - 83
+Vector incomplet rebut: 2023-03-13 09:32:30.010070
+Vector incomplet rebut: 1 - 84
+Vector incomplet rebut: 2023-03-13 09:34:27.004183
+Vector incomplet rebut: 1 - 85
+Vector incomplet rebut: 2023-03-13 09:40:35.515610
+Vector incomplet rebut: 1 - 86
+Vector incomplet rebut: 2023-03-13 09:41:05.592368
+Vector incomplet rebut: 1 - 87
+Vector incomplet rebut: 2023-03-13 09:52:32.874442
+Vector incomplet rebut: 1 - 88
+Vector incomplet rebut: 2023-03-13 09:56:38.279196
+Vector incomplet rebut: 1 - 89
+Vector incomplet rebut: 2023-03-13 09:58:12.746303
+Vector incomplet rebut: 1 - 90
+Vector incomplet rebut: 2023-03-13 10:02:06.324817
+Vector incomplet rebut: 1 - 91
+Vector incomplet rebut: 2023-03-13 10:05:45.497048
+Vector incomplet rebut: 1 - 92
+Vector incomplet rebut: 2023-03-13 10:16:17.353997
+Vector incomplet rebut: 1 - 93
+Vector incomplet rebut: 2023-03-13 10:18:50.515566
+Vector incomplet rebut: 1 - 94
+Vector incomplet rebut: 2023-03-13 10:21:03.536287
+Vector incomplet rebut: 1 - 95
+Vector incomplet rebut: 2023-03-13 10:23:00.455735
+Vector incomplet rebut: 1 - 96
+Vector incomplet rebut: 2023-03-13 10:23:36.682276
+Vector incomplet rebut: 1 - 97
+Vector incomplet rebut: 2023-03-13 10:29:32.871639
+Vector incomplet rebut: 1 - 98
+Vector incomplet rebut: 2023-03-13 10:39:56.486607
+Vector incomplet rebut: 1 - 99
+Vector incomplet rebut: 2023-03-13 10:40:40.689268
+Vector incomplet rebut: 1 - 100
+Vector incomplet rebut: 2023-03-13 10:41:41.066747
+Vector incomplet rebut: 1 - 101
+Vector incomplet rebut: 2023-03-13 10:48:13.339747
+Vector incomplet rebut: 1 - 102
+Vector incomplet rebut: 2023-03-13 10:59:21.095986
+Vector incomplet rebut: 1 - 103
+Vector incomplet rebut: 2023-03-13 11:01:09.793674
+Vector incomplet rebut: 1 - 104
+Vector incomplet rebut: 2023-03-13 11:02:04.112613
+Vector incomplet rebut: 1 - 105
+Vector incomplet rebut: 2023-03-13 11:03:06.500420
+Vector incomplet rebut: 1 - 106
+Vector incomplet rebut: 2023-03-13 11:05:35.219726
+Vector incomplet rebut: 1 - 107
+Vector incomplet rebut: 2023-03-13 11:07:51.952431
+Vector incomplet rebut: 1 - 108
+Vector incomplet rebut: 2023-03-13 11:09:12.669854
+Vector incomplet rebut: 1 - 109
+Vector incomplet rebut: 2023-03-13 11:12:39.728621
+Vector incomplet rebut: 1 - 110
+Vector incomplet rebut: 2023-03-13 11:13:56.168227
+Vector incomplet rebut: 1 - 111
+On: 2023-03-13 15:04:45.326901
+On: 2023-03-13 15:05:16.381660
+On: 2023-03-13 15:06:55.561928
+<<<<<<< Updated upstream
+On: 2023-03-14 15:06:43.989028
+On: 2023-03-14 15:08:43.493528
+On: 2023-03-14 15:10:25.706030
+On: 2023-03-14 15:12:31.521568
+On: 2023-03-14 15:13:18.440793
+On: 2023-03-14 15:13:45.543378
+On: 2023-03-14 15:15:10.661533
+Calculating Kc for Line L1: 2023-03-14 15:15:11.464150
+New Kc for Line L1: 0.721
+Calculating Kc for Line L2: 2023-03-14 15:15:11.496369
+New Kc for Line L2: 0.721
+Calculating Kc for Line L3: 2023-03-14 15:15:11.518529
+New Kc for Line L3: 0.721
+Calculating Kc for Line L4: 2023-03-14 15:15:11.545982
+New Kc for Line L4: 0.721
+On: 2023-03-14 15:15:30.203120
+Vector incomplet rebut: 2023-03-14 15:24:44.515406
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-14 15:33:36.771348
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-14 15:42:00.790050
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-14 15:51:24.971270
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-14 15:51:53.092812
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-14 15:56:32.511548
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-14 15:56:56.626311
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-14 16:11:32.204155
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-14 16:19:08.708423
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-14 16:26:50.517819
+Vector incomplet rebut: 1 - 10
+Vector incomplet rebut: 2023-03-14 16:29:00.963830
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-14 16:38:34.179323
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-14 16:57:39.510781
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-14 16:57:43.520749
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-14 17:03:32.849481
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-14 17:05:09.262401
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-14 17:07:51.762414
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-14 17:10:16.361513
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-14 17:12:47.243076
+Vector incomplet rebut: 1 - 19
+=======
+Irrigation process on at L1: 2023-03-15 01:55:27.841971
+Irrigation process on at L1: 2023-03-15 01:56:44.746592
+Irrigation process on at L1: 2023-03-15 01:56:49.579976
+Irrigation process on at L1: 2023-03-15 01:56:49.581354
+Irrigation process on at L1: 2023-03-15 01:56:54.414455
+Irrigation process on at L1: 2023-03-15 01:58:03.677399
+Irrigation process off at L1: 2023-03-15 01:58:08.497852
+Irrigation process on at L1: 2023-03-15 01:58:08.499128
+Irrigation process off at L1: 2023-03-15 01:58:13.319297
+Irrigation process on at L1: 2023-03-15 02:00:07.908072
+Irrigation process off at L1: 2023-03-15 02:00:12.740288
+Irrigation process on at L1: 2023-03-15 02:00:58.707064
+Irrigation process off at L1: 2023-03-15 02:01:03.534804
+Irrigation process on at L1: 2023-03-15 02:03:04.652557
+Irrigation process off at L1: 2023-03-15 02:03:09.481057
+Irrigation process on at L1: 2023-03-15 02:03:09.517088
+Irrigation process off at L1: 2023-03-15 02:03:14.337745
+Irrigation process on at L1: 2023-03-15 02:03:14.372462
+Irrigation process off at L1: 2023-03-15 02:03:19.198353
+Irrigation process on at L1: 2023-03-15 02:03:19.221285
+Irrigation process off at L1: 2023-03-15 02:03:24.043230
+Irrigation process on at L1: 2023-03-15 02:03:24.077557
+Irrigation process off at L1: 2023-03-15 02:03:28.907696
+Irrigation process on at L1: 2023-03-15 02:03:28.942651
+Irrigation process off at L1: 2023-03-15 02:03:33.766239
+Irrigation process on at L1: 2023-03-15 02:03:33.791597
+Irrigation process off at L1: 2023-03-15 02:03:38.623837
+Irrigation process on at L1: 2023-03-15 02:03:38.657733
+Irrigation process off at L1: 2023-03-15 02:03:43.486216
+Irrigation process on at L1: 2023-03-15 02:03:43.528684
+Irrigation process off at L1: 2023-03-15 02:03:48.348552
+Irrigation process on at L1: 2023-03-15 02:03:48.368359
+Irrigation process off at L1: 2023-03-15 02:03:53.188078
+Irrigation process on at L1: 2023-03-15 02:03:53.213010
+Irrigation process on at L1: 2023-03-15 02:03:57.158276
+Irrigation process off at L1: 2023-03-15 02:04:01.980566
+Irrigation process on at L1: 2023-03-15 02:05:02.026546
+Irrigation process off at L1: 2023-03-15 02:05:06.855348
+>>>>>>> Stashed changes
+Irrigation process on at L1: 2023-03-16 15:11:20.900976
+Irrigation process on at L1: 2023-03-16 15:11:35.402562
+Irrigation process on at L1: 2023-03-16 15:13:28.802239
+Irrigation process off at L1: 2023-03-16 15:14:16.990320
+Irrigation process on at L1: 2023-03-16 18:19:02.637337
+Irrigation process off at L1: 2023-03-16 18:19:50.851502
+Irrigation process on at L1: 2023-03-17 08:34:06.907080
+Irrigation process on at L1: 2023-03-17 08:34:13.749359
+Irrigation process off at L1: 2023-03-17 08:34:57.060088
+Irrigation process off at L1: 2023-03-17 08:35:03.880542
+Irrigation process on at L1: 2023-03-17 12:42:06.836733
+Irrigation process on at L1: 2023-03-17 12:42:13.394776
+Irrigation process off at L1: 2023-03-17 12:42:57.006138
+Irrigation process off at L1: 2023-03-17 12:43:03.537922
+On: 2023-03-17 15:31:57.508196
+Calculating Kc for Line L1: 2023-03-17 15:31:58.468478
+New Kc for Line L1: 0.642
+Calculating Kc for Line L3: 2023-03-17 15:31:58.495238
+New Kc for Line L3: 0.642
+Calculating Kc for Line L4: 2023-03-17 15:31:58.527123
+New Kc for Line L4: 0.642
+Irrigation process on at L1: 2023-03-17 16:48:49.837359
+Irrigation process off at L1: 2023-03-17 16:48:59.477560
+Irrigation process on at L1: 2023-03-17 16:49:10.310385
+Irrigation process off at L1: 2023-03-17 16:49:19.952296
+Irrigation process on at L1: 2023-03-17 16:49:33.340562
+Irrigation process off at L1: 2023-03-17 16:49:42.986688
+Irrigation process on at L1: 2023-03-17 16:51:45.706021
+Irrigation process off at L1: 2023-03-17 16:51:55.347477
+Irrigation process on at L1: 2023-03-17 16:52:26.839999
+Irrigation process off at L1: 2023-03-17 16:52:36.488529
+Irrigation process on at L1: 2023-03-17 16:54:36.887608
+Irrigation process off at L1: 2023-03-17 16:54:46.551662
+Irrigation process on at L1: 2023-03-17 16:55:39.616255
+Irrigation process off at L1: 2023-03-17 16:55:49.257828
+Irrigation process on at L1: 2023-03-17 17:00:16.371707
+Irrigation process off at L1: 2023-03-17 17:00:22.801866
+Irrigation process on at L1: 2023-03-17 17:05:12.111227
+Irrigation process off at L1: 2023-03-17 17:05:18.542213
+Irrigation process on at L1: 2023-03-17 17:05:47.132794
+Irrigation process off at L1: 2023-03-17 17:05:53.567084
+Irrigation process on at L1: 2023-03-17 17:08:31.826020
+Irrigation process off at L1: 2023-03-17 17:08:38.254147
+On: 2023-03-17 17:19:15.937772
+Vector incomplet rebut: 2023-03-17 17:19:35.192909
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-17 17:20:05.335935
+Vector incomplet rebut: 1 - 2
+Irrigation process on at L1: 2023-03-20 12:14:34.152781
+Irrigation process off at L1: 2023-03-20 12:14:40.583639
+Irrigation process on at L1: 2023-03-20 12:15:08.020611
+Irrigation process off at L1: 2023-03-20 12:15:14.451450
+Irrigation process on at L1: 2023-03-20 12:17:07.346956
+Irrigation process on at L1: 2023-03-20 12:17:13.343414
+Irrigation process on at L1: 2023-03-20 12:17:14.589022
+Irrigation process off at L1: 2023-03-20 12:17:19.773847
+Irrigation process off at L1: 2023-03-20 12:17:21.020128
+Irrigation process on at L1: 2023-03-20 12:17:44.928837
+Irrigation process on at L1: 2023-03-20 12:17:58.149345
+Irrigation process on at L1: 2023-03-20 12:18:15.231498
+Irrigation process off at L1: 2023-03-20 12:18:21.676054
+Irrigation process on at L1: 2023-03-20 12:20:40.386619
+Irrigation process off at L1: 2023-03-20 12:20:46.820837
+Irrigation process on at L1: 2023-03-20 12:21:03.695322
+Irrigation process on at L1: 2023-03-20 12:21:13.945157
+Irrigation process on at L1: 2023-03-20 12:21:18.438432
+Irrigation process on at L1: 2023-03-20 12:21:25.485185
+Irrigation process on at L1: 2023-03-20 12:21:29.581413
+Irrigation process on at L1: 2023-03-20 12:21:33.850104
+Irrigation process on at L1: 2023-03-20 12:21:38.750586
+Irrigation process on at L1: 2023-03-20 12:21:41.342235
+Irrigation process on at L1: 2023-03-20 12:21:42.478257
+Irrigation process off at L1: 2023-03-20 12:21:47.770860
+Irrigation process off at L1: 2023-03-20 12:21:48.908374
+On: 2023-03-20 15:42:05.598902
+On: 2023-03-20 16:21:55.684220
+Irrigation process on at L1: 2023-03-21 11:04:02.156562
+Irrigation process off at L1: 2023-03-21 11:04:08.588968
+Irrigation process on at L1: 2023-03-21 11:23:20.959567
+Irrigation process off at L1: 2023-03-21 11:23:27.388857
+Irrigation process on at L1: 2023-03-21 11:33:39.448199
+Irrigation process off at L1: 2023-03-21 11:33:45.879434
+Irrigation process on at L1: 2023-03-21 13:04:31.198921
+Irrigation process off at L1: 2023-03-21 13:04:37.628712
+Irrigation process on at L1: 2023-03-21 13:13:52.097803
+Irrigation process off at L1: 2023-03-21 13:20:17.435616
+Irrigation process on at L1: 2023-03-21 15:04:21.805501
+Irrigation process off at L1: 2023-03-21 15:10:47.144976
+Irrigation process on at L1: 2023-03-22 10:23:44.795951
+Irrigation process off at L1: 2023-03-22 10:30:10.233826
+Irrigation process on at L1: 2023-03-22 11:38:13.102596
+Irrigation process off at L1: 2023-03-22 11:44:38.469667
+Irrigation process on at L1: 2023-03-22 12:53:41.730713
+Irrigation process off at L1: 2023-03-22 13:00:07.090042
+Irrigation process on at L1: 2023-03-22 13:47:29.971964
+Irrigation process on at L1: 2023-03-22 13:47:44.346295
+On: 2023-03-22 16:02:50.898266
+Vector incomplet rebut: 2023-03-22 16:05:20.969798
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-22 16:07:51.789420
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-22 16:11:08.723498
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-22 16:16:14.319943
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-22 16:20:27.702152
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-22 16:22:28.324127
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-22 16:24:12.837449
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-22 16:26:11.546389
+Vector incomplet rebut: 1 - 8
+Irrigation process on at L1: 2023-03-22 16:33:28.068394
+Irrigation process off at L1: 2023-03-22 16:39:53.498698
+Irrigation process on at L1: 2023-03-22 16:39:53.548455
+Irrigation process off at L1: 2023-03-22 16:46:18.983208
+Irrigation process on at L1: 2023-03-22 16:46:18.983895
+Irrigation process off at L1: 2023-03-22 16:52:44.400747
+Irrigation process on at L1: 2023-03-22 16:52:44.402028
+Vector incomplet rebut: 2023-03-22 16:57:21.443297
+Vector incomplet rebut: 1 - 9
+Irrigation process off at L1: 2023-03-22 16:59:09.829966
+Vector incomplet rebut: 2023-03-22 17:00:12.272652
+Vector incomplet rebut: 1 - 10
+Irrigation process on at L1: 2023-03-22 17:03:25.148628
+Vector incomplet rebut: 2023-03-22 17:07:38.471165
+Vector incomplet rebut: 1 - 11
+Irrigation process off at L1: 2023-03-22 17:09:50.578700
+Irrigation process on at L1: 2023-03-22 17:09:50.579455
+Vector incomplet rebut: 2023-03-22 17:13:26.075901
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-22 17:15:10.545023
+Vector incomplet rebut: 1 - 13
+Irrigation process off at L1: 2023-03-22 17:16:16.018462
+Irrigation process on at L1: 2023-03-22 17:16:16.019157
+Irrigation process off at L1: 2023-03-22 17:22:41.453913
+Irrigation process on at L1: 2023-03-22 17:22:41.455940
+Vector incomplet rebut: 2023-03-22 17:28:58.611657
+Vector incomplet rebut: 1 - 14
+Irrigation process off at L1: 2023-03-22 17:29:06.844435
+Irrigation process on at L1: 2023-03-22 17:29:06.845211
+Vector incomplet rebut: 2023-03-22 17:30:41.056475
+Vector incomplet rebut: 1 - 15
+Vector incomplet rebut: 2023-03-22 17:32:49.720507
+Vector incomplet rebut: 1 - 16
+Irrigation process off at L1: 2023-03-22 17:35:32.208854
+Irrigation process on at L1: 2023-03-22 17:35:32.209704
+Vector incomplet rebut: 2023-03-22 17:38:31.729092
+Vector incomplet rebut: 1 - 17
+Vector incomplet rebut: 2023-03-22 17:42:04.755327
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-22 17:43:17.133562
+Vector incomplet rebut: 1 - 19
+On: 2023-03-22 17:57:14.438204
+Vector incomplet rebut: 2023-03-22 17:58:39.064381
+Vector incomplet rebut: 1 - 1
+Vector incomplet rebut: 2023-03-22 17:58:39.581932
+Vector incomplet rebut: 1 - 20
+Irrigation process on at L1: 2023-03-22 18:00:00.858424
+Irrigation process on at L4: 2023-03-22 18:00:02.088345
+Vector incomplet rebut: 2023-03-22 18:02:57.143425
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-22 18:02:57.659866
+Vector incomplet rebut: 1 - 21
+Vector incomplet rebut: 2023-03-22 18:04:34.092795
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-22 18:04:34.612181
+Vector incomplet rebut: 1 - 22
+Irrigation process off at L1: 2023-03-22 18:06:26.260871
+Irrigation process on at L1: 2023-03-22 18:06:26.309827
+Irrigation process off at L4: 2023-03-22 18:06:27.518676
+Vector incomplet rebut: 2023-03-22 18:06:53.055461
+Vector incomplet rebut: 1 - 4
+Vector incomplet rebut: 2023-03-22 18:06:53.578243
+Vector incomplet rebut: 1 - 23
+Irrigation process off at L1: 2023-03-22 18:12:51.731050
+Vector incomplet rebut: 2023-03-22 18:13:46.594922
+Vector incomplet rebut: 1 - 24
+Vector incomplet rebut: 2023-03-22 18:13:47.106685
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-22 18:17:22.231566
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-22 18:17:22.748606
+Vector incomplet rebut: 1 - 25
+Vector incomplet rebut: 2023-03-22 18:18:28.643615
+Vector incomplet rebut: 1 - 26
+Vector incomplet rebut: 2023-03-22 18:18:29.162214
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-22 18:21:22.087813
+Vector incomplet rebut: 1 - 8
+Vector incomplet rebut: 2023-03-22 18:21:22.608057
+Vector incomplet rebut: 1 - 27
+Vector incomplet rebut: 2023-03-22 18:23:33.368859
+Vector incomplet rebut: 1 - 28
+Vector incomplet rebut: 2023-03-22 18:39:26.418409
+Vector incomplet rebut: 1 - 29
+Vector incomplet rebut: 2023-03-22 18:40:24.664843
+Vector incomplet rebut: 1 - 30
+Vector incomplet rebut: 2023-03-22 18:49:25.592677
+Vector incomplet rebut: 1 - 31
+Vector incomplet rebut: 2023-03-22 18:53:20.990843
+Vector incomplet rebut: 1 - 32
+Irrigation process on at L2: 2023-03-22 18:57:14.258421
+Irrigation process off at L2: 2023-03-22 19:03:39.688733
+Vector incomplet rebut: 2023-03-22 19:06:55.454246
+Vector incomplet rebut: 1 - 33
+Vector incomplet rebut: 2023-03-22 19:10:56.806210
+Vector incomplet rebut: 1 - 34
+Vector incomplet rebut: 2023-03-22 19:11:26.881865
+Vector incomplet rebut: 1 - 35
+Vector incomplet rebut: 2023-03-22 19:19:41.437222
+Vector incomplet rebut: 1 - 36
+Irrigation process on at L3: 2023-03-22 19:27:36.625217
+Vector incomplet rebut: 2023-03-22 19:27:59.784637
+Vector incomplet rebut: 1 - 37
+Vector incomplet rebut: 2023-03-22 19:31:18.884090
+Vector incomplet rebut: 1 - 38
+Vector incomplet rebut: 2023-03-22 19:33:27.621685
+Vector incomplet rebut: 1 - 39
+Vector incomplet rebut: 2023-03-22 19:34:52.188888
+Vector incomplet rebut: 1 - 40
+Irrigation process off at L3: 2023-03-22 19:37:14.665345
+Vector incomplet rebut: 2023-03-22 19:41:50.600702
+Vector incomplet rebut: 1 - 41
+Vector incomplet rebut: 2023-03-22 19:42:02.647845
+Vector incomplet rebut: 1 - 42
+Vector incomplet rebut: 2023-03-22 19:43:57.269416
+Vector incomplet rebut: 1 - 43
+Vector incomplet rebut: 2023-03-22 19:45:13.716651
+Vector incomplet rebut: 1 - 44
+Vector incomplet rebut: 2023-03-22 19:45:31.847882
+Vector incomplet rebut: 1 - 45
+Vector incomplet rebut: 2023-03-22 19:47:18.403809
+Vector incomplet rebut: 1 - 46
+Vector incomplet rebut: 2023-03-22 19:49:21.036857
+Vector incomplet rebut: 1 - 47
+Vector incomplet rebut: 2023-03-22 19:50:55.719272
+Vector incomplet rebut: 1 - 48
+Vector incomplet rebut: 2023-03-22 19:52:48.232349
+Vector incomplet rebut: 1 - 49
+Vector incomplet rebut: 2023-03-22 19:53:46.677407
+Vector incomplet rebut: 1 - 50
+Irrigation process on at L4: 2023-03-22 20:00:32.675914
+Irrigation process on at L1: 2023-03-22 20:00:56.518543
+Irrigation process off at L4: 2023-03-22 20:06:58.069155
+Irrigation process off at L1: 2023-03-22 20:07:21.879269
+Irrigation process on at L2: 2023-03-22 20:57:43.557906
+Irrigation process off at L2: 2023-03-22 21:04:08.925641
+Irrigation process on at L3: 2023-03-22 22:28:20.665672
+Irrigation process off at L3: 2023-03-22 22:37:58.707079
+Irrigation process on at L2: 2023-03-22 22:59:14.442116
+Irrigation process off at L2: 2023-03-22 23:05:39.829648
+Irrigation process on at L2: 2023-03-23 10:00:08.853710
+Irrigation process on at L3: 2023-03-23 10:00:26.589758
+Irrigation process on at L4: 2023-03-23 10:00:27.569764
+Irrigation process on at L1: 2023-03-23 10:00:51.048209
+Irrigation process off at L2: 2023-03-23 10:10:36.957260
+Irrigation process off at L3: 2023-03-23 10:10:54.679176
+Irrigation process off at L4: 2023-03-23 10:10:55.589172
+Irrigation process off at L1: 2023-03-23 10:11:19.151778
+Irrigation process on at L4: 2023-03-23 12:00:00.181459
+Irrigation process on at L1: 2023-03-23 12:00:23.946500
+Irrigation process on at L2: 2023-03-23 12:00:41.528293
+Irrigation process on at L3: 2023-03-23 12:00:59.228526
+Irrigation process off at L4: 2023-03-23 12:10:28.203868
+Irrigation process off at L1: 2023-03-23 12:10:52.049316
+Irrigation process off at L2: 2023-03-23 12:11:09.630233
+Irrigation process off at L3: 2023-03-23 12:11:27.333265
+Irrigation process on at L2: 2023-03-23 14:00:14.206832
+Irrigation process on at L3: 2023-03-23 14:00:31.970823
+Irrigation process on at L4: 2023-03-23 14:00:33.098672
+Irrigation process on at L1: 2023-03-23 14:00:56.226375
+Irrigation process off at L2: 2023-03-23 14:10:42.221640
+Irrigation process off at L3: 2023-03-23 14:11:00.073619
+Irrigation process off at L4: 2023-03-23 14:11:01.201212
+Irrigation process off at L1: 2023-03-23 14:11:24.247085
+Irrigation process on at L2: 2023-03-23 16:00:05.291079
+Irrigation process on at L4: 2023-03-23 16:00:05.529209
+Irrigation process on at L1: 2023-03-23 16:00:05.728575
+Irrigation process on at L3: 2023-03-23 16:00:05.748639
+Irrigation process on at L2: 2023-03-23 16:00:22.487577
+Irrigation process on at L1: 2023-03-23 16:00:22.539319
+Irrigation process on at L4: 2023-03-23 16:00:22.755374
+Irrigation process on at L3: 2023-03-23 16:00:22.927314
+Irrigation process off at L2: 2023-03-23 16:10:33.389154
+Irrigation process off at L4: 2023-03-23 16:10:33.592804
+Irrigation process off at L1: 2023-03-23 16:10:33.828783
+Irrigation process off at L3: 2023-03-23 16:10:33.848695
+Irrigation process off at L2: 2023-03-23 16:10:50.589571
+Irrigation process off at L1: 2023-03-23 16:10:50.640712
+Irrigation process off at L4: 2023-03-23 16:10:50.853312
+Irrigation process off at L3: 2023-03-23 16:10:51.029564
+On: 2023-03-23 16:59:20.232359
+Vector incomplet rebut: 2023-03-23 17:00:57.883434
+Vector incomplet rebut: 1 - 1
+Irrigation process on at L3: 2023-03-23 17:01:21.223106
+Vector incomplet rebut: 2023-03-23 17:02:04.511283
+Vector incomplet rebut: 1 - 2
+Vector incomplet rebut: 2023-03-23 17:02:56.727049
+Vector incomplet rebut: 1 - 3
+Vector incomplet rebut: 2023-03-23 17:06:50.088309
+Vector incomplet rebut: 1 - 4
+Irrigation process off at L3: 2023-03-23 17:11:49.240902
+Vector incomplet rebut: 2023-03-23 17:15:47.442731
+Vector incomplet rebut: 1 - 5
+Vector incomplet rebut: 2023-03-23 17:18:36.466856
+Vector incomplet rebut: 1 - 6
+Vector incomplet rebut: 2023-03-23 17:19:32.745535
+Vector incomplet rebut: 1 - 7
+Vector incomplet rebut: 2023-03-23 17:28:52.066708
+Vector incomplet rebut: 1 - 8
+Irrigation process on at L4: 2023-03-23 17:30:03.730474
+Vector incomplet rebut: 2023-03-23 17:30:42.578526
+Vector incomplet rebut: 1 - 9
+Vector incomplet rebut: 2023-03-23 17:35:44.603084
+Vector incomplet rebut: 1 - 10
+Irrigation process off at L4: 2023-03-23 17:40:31.831837
+Vector incomplet rebut: 2023-03-23 17:41:48.897720
+Vector incomplet rebut: 1 - 11
+Vector incomplet rebut: 2023-03-23 17:44:07.621270
+Vector incomplet rebut: 1 - 12
+Vector incomplet rebut: 2023-03-23 17:46:48.768122
+Vector incomplet rebut: 1 - 13
+Vector incomplet rebut: 2023-03-23 17:52:02.996532
+Vector incomplet rebut: 1 - 14
+Vector incomplet rebut: 2023-03-23 17:53:33.763464
+Vector incomplet rebut: 1 - 15
+Irrigation process on at L1: 2023-03-23 18:00:06.790385
+Vector incomplet rebut: 2023-03-23 18:04:04.152460
+Vector incomplet rebut: 1 - 16
+Vector incomplet rebut: 2023-03-23 18:09:14.090351
+Vector incomplet rebut: 1 - 17
+Irrigation process off at L1: 2023-03-23 18:10:34.800544
+Irrigation process on at L1: 2023-03-23 18:10:34.851045
+Vector incomplet rebut: 2023-03-23 18:16:26.784039
+Vector incomplet rebut: 1 - 18
+Vector incomplet rebut: 2023-03-23 18:16:56.937221
+Vector incomplet rebut: 1 - 19
+Vector incomplet rebut: 2023-03-23 18:19:29.885963
+Vector incomplet rebut: 1 - 20
+Vector incomplet rebut: 2023-03-23 18:20:18.232663
+Vector incomplet rebut: 1 - 21
+Irrigation process off at L1: 2023-03-23 18:21:02.860620
+Vector incomplet rebut: 2023-03-23 18:23:09.283085
+Vector incomplet rebut: 1 - 22
+Vector incomplet rebut: 2023-03-23 18:24:35.724455
+Vector incomplet rebut: 1 - 23
+Irrigation process on at L2: 2023-03-23 18:30:51.422579
+Irrigation process off at L2: 2023-03-23 18:44:48.770443
+Vector incomplet rebut: 2023-03-23 18:47:56.495184
+Vector incomplet rebut: 1 - 24
+Vector incomplet rebut: 2023-03-23 18:48:08.582030
+Vector incomplet rebut: 1 - 25
+Vector incomplet rebut: 2023-03-23 18:50:05.204840
+Vector incomplet rebut: 1 - 26
+Vector incomplet rebut: 2023-03-23 18:54:57.270797
+Vector incomplet rebut: 1 - 27
+Vector incomplet rebut: 2023-03-23 18:57:20.054282
+Vector incomplet rebut: 1 - 28
+Irrigation process on at L3: 2023-03-23 19:00:54.250215
+Vector incomplet rebut: 2023-03-23 19:02:03.822574
+Vector incomplet rebut: 1 - 29
+Vector incomplet rebut: 2023-03-23 19:02:15.851114
+Vector incomplet rebut: 1 - 30
+Vector incomplet rebut: 2023-03-23 19:09:30.800528
+Vector incomplet rebut: 1 - 31
+Vector incomplet rebut: 2023-03-23 19:10:55.294683
+Vector incomplet rebut: 1 - 32
+Irrigation process off at L3: 2023-03-23 19:11:22.300597
+Vector incomplet rebut: 2023-03-23 19:18:18.645109
+Vector incomplet rebut: 1 - 33
+Vector incomplet rebut: 2023-03-23 19:24:41.190838
+Vector incomplet rebut: 1 - 34
+Vector incomplet rebut: 2023-03-23 19:25:33.474141
+Vector incomplet rebut: 1 - 35
+Vector incomplet rebut: 2023-03-23 19:26:29.938394
+Vector incomplet rebut: 1 - 36
+Vector incomplet rebut: 2023-03-23 19:27:10.175103
+Vector incomplet rebut: 1 - 37
+Vector incomplet rebut: 2023-03-23 19:30:09.373198
+Vector incomplet rebut: 1 - 38
+Irrigation process on at L4: 2023-03-23 19:30:36.530445
+Vector incomplet rebut: 2023-03-23 19:32:56.412181
+Vector incomplet rebut: 1 - 39
+Vector incomplet rebut: 2023-03-23 19:37:04.288172
+Vector incomplet rebut: 1 - 40
+Vector incomplet rebut: 2023-03-23 19:40:19.635899
+Vector incomplet rebut: 1 - 41
+Irrigation process off at L4: 2023-03-23 19:41:04.545513
+Vector incomplet rebut: 2023-03-23 19:44:43.448828
+Vector incomplet rebut: 1 - 42
+Irrigation process on at L1: 2023-03-23 20:00:07.460269
+Vector incomplet rebut: 2023-03-23 20:10:27.349576
+Vector incomplet rebut: 1 - 43
+Irrigation process off at L1: 2023-03-23 20:10:35.520898
+Vector incomplet rebut: 2023-03-23 20:13:55.009002
+Vector incomplet rebut: 1 - 44
+Vector incomplet rebut: 2023-03-23 20:21:01.947406
+Vector incomplet rebut: 1 - 45
+Vector incomplet rebut: 2023-03-23 20:25:35.967180
+Vector incomplet rebut: 1 - 46
+Vector incomplet rebut: 2023-03-23 20:29:45.742177
+Vector incomplet rebut: 1 - 47
+Irrigation process on at L2: 2023-03-23 20:30:54.580251
+Vector incomplet rebut: 2023-03-23 20:32:44.711786
+Vector incomplet rebut: 1 - 48
+Vector incomplet rebut: 2023-03-23 20:34:25.255499
+Vector incomplet rebut: 1 - 49
+Vector incomplet rebut: 2023-03-23 20:36:54.403435
+Vector incomplet rebut: 1 - 50
+Irrigation process off at L2: 2023-03-23 20:44:52.015530
+Irrigation process on at L3: 2023-03-23 21:00:26.890407
+Irrigation process off at L3: 2023-03-23 21:10:54.901071
+Irrigation process on at L4: 2023-03-23 21:30:09.000236
+Irrigation process off at L4: 2023-03-23 21:40:37.031009
+Irrigation process on at L1: 2023-03-24 10:00:04.962215
+Irrigation process on at L1: 2023-03-24 10:00:28.140959
+Irrigation process off at L1: 2023-03-24 10:11:08.381384
+Irrigation process on at L1: 2023-03-24 10:11:08.479422
+Irrigation process off at L1: 2023-03-24 10:11:31.550046
+Irrigation process off at L1: 2023-03-24 10:22:11.918033
+Irrigation process on at L2: 2023-03-24 10:22:22.953107
+Irrigation process on at L2: 2023-03-24 10:22:24.800399
+Irrigation process off at L2: 2023-03-24 10:36:16.770052
+Irrigation process off at L2: 2023-03-24 10:36:18.620613
+Irrigation process on at L3: 2023-03-24 10:51:26.036010
+Irrigation process on at L3: 2023-03-24 10:51:27.409881
+Irrigation process off at L3: 2023-03-24 11:00:54.348918
+Irrigation process off at L3: 2023-03-24 11:00:55.798090
+Irrigation process on at L4: 2023-03-24 11:21:28.880430
+Irrigation process on at L4: 2023-03-24 11:22:09.410433
+Irrigation process off at L4: 2023-03-24 11:30:57.481012
+Irrigation process off at L4: 2023-03-24 11:31:38.001106
+Irrigation process on at L1: 2023-03-24 12:00:16.530747
+Irrigation process on at L1: 2023-03-24 12:00:36.550777
+Irrigation process on at L2: 2023-03-24 12:04:20.647083
+Irrigation process on at L2: 2023-03-24 12:04:22.087224
+Irrigation process off at L1: 2023-03-24 12:11:19.879412
+Irrigation process off at L1: 2023-03-24 12:11:39.898089
+Irrigation process off at L2: 2023-03-24 12:18:14.463428
+Irrigation process off at L2: 2023-03-24 12:18:15.901165
+Irrigation process on at L3: 2023-03-24 12:34:58.761091
+Irrigation process on at L3: 2023-03-24 12:34:59.535060
+Irrigation process off at L3: 2023-03-24 12:44:27.061393
+Irrigation process off at L3: 2023-03-24 12:44:27.922383
+Irrigation process on at L4: 2023-03-24 13:04:40.610405
+Irrigation process on at L4: 2023-03-24 13:05:00.630404
+Irrigation process off at L4: 2023-03-24 13:14:09.210994
+Irrigation process off at L4: 2023-03-24 13:14:29.221047
+Irrigation process on at L2: 2023-03-24 13:47:18.224073
+Irrigation process on at L2: 2023-03-24 13:47:19.750102
+Irrigation process on at L1: 2023-03-24 14:00:24.220395
+Irrigation process on at L1: 2023-03-24 14:00:44.775816
+Irrigation process off at L2: 2023-03-24 14:01:12.025437
+Irrigation process off at L2: 2023-03-24 14:01:13.475743
+Irrigation process off at L1: 2023-03-24 14:11:27.581133
+Irrigation process off at L1: 2023-03-24 14:11:48.211731
+Irrigation process on at L3: 2023-03-24 14:17:30.865472
+Irrigation process on at L3: 2023-03-24 14:17:32.060440
+Irrigation process off at L3: 2023-03-24 14:26:59.253723
+Irrigation process off at L3: 2023-03-24 14:27:00.391077
+Irrigation process on at L4: 2023-03-24 14:47:12.242486
+Irrigation process on at L4: 2023-03-24 14:47:32.290398
+Irrigation process off at L4: 2023-03-24 14:56:40.916414
+Irrigation process off at L4: 2023-03-24 14:57:00.940849
+Irrigation process on at L2: 2023-03-24 15:30:16.133571
+Irrigation process on at L2: 2023-03-24 15:30:16.440170
+Irrigation process off at L2: 2023-03-24 15:44:09.952135
+Irrigation process off at L2: 2023-03-24 15:44:10.250565
+Irrigation process on at L3: 2023-03-24 16:00:03.276453
+Irrigation process on at L3: 2023-03-24 16:00:04.200277
+Irrigation process on at L1: 2023-03-24 16:00:31.060403
+Irrigation process on at L1: 2023-03-24 16:00:51.958492
+Irrigation process off at L3: 2023-03-24 16:09:31.621018
+Irrigation process off at L3: 2023-03-24 16:09:32.490923
+Irrigation process off at L1: 2023-03-24 16:11:34.411548
+Irrigation process off at L1: 2023-03-24 16:11:55.305409
+Irrigation process on at L4: 2023-03-24 16:30:04.860399
+Irrigation process on at L4: 2023-03-24 16:30:44.951309
+Irrigation process off at L4: 2023-03-24 16:39:33.451044
+Irrigation process off at L4: 2023-03-24 16:40:13.526018
+Irrigation process on at L2: 2023-03-24 17:13:13.220836
+Irrigation process on at L2: 2023-03-24 17:13:13.907090
+Irrigation process off at L2: 2023-03-24 17:27:06.941239
+Irrigation process off at L2: 2023-03-24 17:27:07.668642
+Irrigation process on at L3: 2023-03-24 17:43:35.321043
+Irrigation process on at L3: 2023-03-24 17:43:36.140452
+Irrigation process off at L3: 2023-03-24 17:53:03.621110
+Irrigation process off at L3: 2023-03-24 17:53:04.432583
+Irrigation process on at L1: 2023-03-24 18:00:00.211000
+Irrigation process on at L1: 2023-03-24 18:00:38.554897
+Irrigation process off at L1: 2023-03-24 18:11:03.558668
+Irrigation process off at L1: 2023-03-24 18:11:41.957857
+Irrigation process on at L4: 2023-03-24 18:13:17.131311
+Irrigation process on at L4: 2023-03-24 18:13:37.008328
+Irrigation process off at L4: 2023-03-24 18:22:45.731021
+Irrigation process off at L4: 2023-03-24 18:23:05.585806
+Irrigation process on at L2: 2023-03-24 18:56:10.301296
+Irrigation process on at L2: 2023-03-24 18:56:11.120455
+Irrigation process off at L2: 2023-03-24 19:10:04.021037
+Irrigation process off at L2: 2023-03-24 19:10:04.861011
+Irrigation process on at L3: 2023-03-24 19:26:07.410637
+Irrigation process on at L3: 2023-03-24 19:26:07.861001
+Irrigation process off at L3: 2023-03-24 19:35:35.751050
+Irrigation process off at L3: 2023-03-24 19:35:36.247946
+Irrigation process on at L4: 2023-03-24 19:55:49.499910
+Irrigation process on at L4: 2023-03-24 19:56:08.780397
+Irrigation process on at L1: 2023-03-24 20:00:07.330604
+Irrigation process on at L1: 2023-03-24 20:00:46.776623
+Irrigation process off at L4: 2023-03-24 20:05:18.173923
+Irrigation process off at L4: 2023-03-24 20:05:37.381010
+Irrigation process off at L1: 2023-03-24 20:11:10.671099
+Irrigation process off at L1: 2023-03-24 20:11:50.212626
+Irrigation process on at L2: 2023-03-24 20:39:06.604299
+Irrigation process on at L2: 2023-03-24 20:39:08.866760
+Irrigation process off at L2: 2023-03-24 20:53:00.420726
+Irrigation process off at L2: 2023-03-24 20:53:02.668945
+Irrigation process on at L3: 2023-03-24 21:08:39.847644
+Irrigation process on at L3: 2023-03-24 21:08:40.145468
+Irrigation process off at L3: 2023-03-24 21:18:08.235895
+Irrigation process off at L3: 2023-03-24 21:18:08.448382
+Irrigation process on at L4: 2023-03-24 21:38:41.180367
+Irrigation process on at L4: 2023-03-24 21:39:22.058143
+Irrigation process off at L4: 2023-03-24 21:48:09.811025
+Irrigation process off at L4: 2023-03-24 21:48:50.732268
+Irrigation process on at L1: 2023-03-25 10:00:20.862957
+Irrigation process on at L1: 2023-03-25 10:00:26.511030
+Irrigation process on at L1: 2023-03-25 10:00:40.890403
+Irrigation process off at L1: 2023-03-25 10:06:46.298839
+Irrigation process on at L1: 2023-03-25 10:06:46.403544
+Irrigation process off at L1: 2023-03-25 10:06:51.864272
+Irrigation process off at L1: 2023-03-25 10:07:06.322669
+Irrigation process off at L1: 2023-03-25 10:13:11.749877
+Irrigation process on at L2: 2023-03-25 11:00:25.116896
+Irrigation process on at L2: 2023-03-25 11:00:32.370342
+Irrigation process on at L2: 2023-03-25 11:00:32.812007
+Irrigation process off at L2: 2023-03-25 11:16:29.178515
+Irrigation process off at L2: 2023-03-25 11:16:36.376362
+Irrigation process off at L2: 2023-03-25 11:16:36.831420
+Irrigation process on at L3: 2023-03-25 11:30:30.820737
+Irrigation process on at L3: 2023-03-25 11:30:38.529250
+Irrigation process on at L3: 2023-03-25 11:30:42.261254
+Irrigation process off at L3: 2023-03-25 11:40:08.351078
+Irrigation process off at L3: 2023-03-25 11:40:16.037431
+Irrigation process off at L3: 2023-03-25 11:40:19.868514
+Irrigation process on at L1: 2023-03-25 12:00:11.143356
+Irrigation process on at L1: 2023-03-25 12:00:16.490244
+Irrigation process on at L4: 2023-03-25 12:00:21.930385
+Irrigation process on at L4: 2023-03-25 12:00:28.483731
+Irrigation process on at L4: 2023-03-25 12:00:44.080985
+Irrigation process on at L1: 2023-03-25 12:00:56.441698
+Irrigation process off at L1: 2023-03-25 12:06:36.556131
+Irrigation process off at L1: 2023-03-25 12:06:41.896229
+Irrigation process off at L1: 2023-03-25 12:07:21.877508
+Irrigation process off at L4: 2023-03-25 12:09:59.990999
+Irrigation process off at L4: 2023-03-25 12:10:06.586168
+Irrigation process off at L4: 2023-03-25 12:10:22.147496
+Irrigation process on at L1: 2023-03-25 14:00:26.443968
+Irrigation process on at L2: 2023-03-25 14:00:35.629698
+Irrigation process on at L1: 2023-03-25 14:00:40.979449
+Irrigation process on at L2: 2023-03-25 14:00:43.470559
+Irrigation process on at L2: 2023-03-25 14:00:44.301972
+Irrigation process on at L1: 2023-03-25 14:00:47.020908
+Irrigation process off at L1: 2023-03-25 14:06:51.879784
+Irrigation process off at L1: 2023-03-25 14:07:06.416646
+Irrigation process off at L1: 2023-03-25 14:07:12.374306
+Irrigation process off at L2: 2023-03-25 14:16:39.661152
+Irrigation process off at L2: 2023-03-25 14:16:47.541925
+Irrigation process off at L2: 2023-03-25 14:16:48.354786
+Irrigation process on at L3: 2023-03-25 14:30:14.380389
+Irrigation process on at L3: 2023-03-25 14:30:22.710406
+Irrigation process on at L3: 2023-03-25 14:30:26.961423
+Irrigation process off at L3: 2023-03-25 14:39:51.901096
+Irrigation process off at L3: 2023-03-25 14:40:00.230465
+Irrigation process off at L3: 2023-03-25 14:40:04.563943
+Irrigation process on at L4: 2023-03-25 15:00:06.886820
+Irrigation process on at L4: 2023-03-25 15:00:14.151953
+Irrigation process on at L4: 2023-03-25 15:00:28.453139
+Irrigation process off at L4: 2023-03-25 15:09:44.990155
+Irrigation process off at L4: 2023-03-25 15:09:52.254216
+Irrigation process off at L4: 2023-03-25 15:10:06.555677
+Irrigation process on at L1: 2023-03-25 16:00:11.022291
+Irrigation process on at L1: 2023-03-25 16:00:17.270754
+Irrigation process on at L1: 2023-03-25 16:00:55.890399
+Irrigation process off at L1: 2023-03-25 16:06:36.358718
+Irrigation process off at L1: 2023-03-25 16:06:42.705994
+Irrigation process off at L1: 2023-03-25 16:07:21.241310
+Irrigation process on at L2: 2023-03-25 17:00:47.172334
+Irrigation process on at L2: 2023-03-25 17:00:53.391796
+Irrigation process on at L2: 2023-03-25 17:00:55.083569
+Irrigation process off at L2: 2023-03-25 17:16:51.187633
+Irrigation process off at L2: 2023-03-25 17:16:57.495237
+Irrigation process off at L2: 2023-03-25 17:16:59.175167
+Irrigation process on at L3: 2023-03-25 17:30:07.081185
+Irrigation process on at L3: 2023-03-25 17:30:10.441096
+Irrigation process on at L3: 2023-03-25 17:30:57.291300
+Irrigation process off at L3: 2023-03-25 17:39:44.595091
+Irrigation process off at L3: 2023-03-25 17:39:47.950958
+Irrigation process off at L3: 2023-03-25 17:40:34.890514
+Irrigation process on at L4: 2023-03-25 18:00:13.231637
+Irrigation process on at L1: 2023-03-25 18:00:26.084803
+Irrigation process on at L1: 2023-03-25 18:00:41.596073
+Irrigation process on at L1: 2023-03-25 18:00:47.255989
+Irrigation process on at L4: 2023-03-25 18:00:52.863946
+Irrigation process on at L4: 2023-03-25 18:00:59.275416
+Irrigation process off at L1: 2023-03-25 18:06:51.524023
+Irrigation process off at L1: 2023-03-25 18:07:06.961827
+Irrigation process off at L1: 2023-03-25 18:07:12.601125
+Irrigation process off at L4: 2023-03-25 18:09:51.261943
+Irrigation process off at L4: 2023-03-25 18:10:30.924568
+Irrigation process off at L4: 2023-03-25 18:10:37.378595
+Irrigation process on at L2: 2023-03-25 20:00:05.069720
+Irrigation process on at L2: 2023-03-25 20:00:06.802625
+Irrigation process on at L1: 2023-03-25 20:00:11.701319
+Irrigation process on at L1: 2023-03-25 20:00:17.713416
+Irrigation process on at L1: 2023-03-25 20:00:55.954222
+Irrigation process on at L2: 2023-03-25 20:00:58.620955
+Irrigation process off at L1: 2023-03-25 20:06:37.100942
+Irrigation process off at L1: 2023-03-25 20:06:43.890150
+Irrigation process off at L1: 2023-03-25 20:07:21.390023
+Irrigation process off at L2: 2023-03-25 20:16:09.174043
+Irrigation process off at L2: 2023-03-25 20:16:10.809520
+Irrigation process off at L2: 2023-03-25 20:17:02.714651
+Irrigation process on at L3: 2023-03-25 20:30:41.050395
+Irrigation process on at L3: 2023-03-25 20:30:51.370401
+Irrigation process on at L3: 2023-03-25 20:30:55.422053
+Irrigation process off at L3: 2023-03-25 20:40:18.561005
+Irrigation process off at L3: 2023-03-25 20:40:28.891004
+Irrigation process off at L3: 2023-03-25 20:40:33.024480
+Irrigation process on at L4: 2023-03-25 21:00:38.150425
+Irrigation process on at L4: 2023-03-25 21:00:44.320466
+Irrigation process on at L4: 2023-03-25 21:00:57.316858
+Irrigation process off at L4: 2023-03-25 21:10:16.171009
+Irrigation process off at L4: 2023-03-25 21:10:22.381083
+Irrigation process off at L4: 2023-03-25 21:10:35.336650
+Irrigation process on at L1: 2023-03-26 10:00:01.110399
+Irrigation process on at L1: 2023-03-26 10:00:13.067669
+Irrigation process on at L1: 2023-03-26 10:00:24.727208
+Irrigation process on at L1: 2023-03-26 10:00:48.870409
+Irrigation process off at L1: 2023-03-26 10:06:26.511081
+Irrigation process on at L1: 2023-03-26 10:06:26.609497
+Irrigation process off at L1: 2023-03-26 10:06:38.503731
+Irrigation process off at L1: 2023-03-26 10:06:50.163207
+Irrigation process off at L1: 2023-03-26 10:07:14.221116
+Irrigation process off at L1: 2023-03-26 10:12:51.961158
+Irrigation process on at L2: 2023-03-26 11:00:28.434050
+Irrigation process on at L2: 2023-03-26 11:00:28.950162
+Irrigation process on at L2: 2023-03-26 11:00:36.893191
+Irrigation process on at L2: 2023-03-26 11:00:40.549691
+Irrigation process off at L2: 2023-03-26 11:18:27.531154
+Irrigation process off at L2: 2023-03-26 11:18:28.050549
+Irrigation process off at L2: 2023-03-26 11:18:35.958682
+Irrigation process off at L2: 2023-03-26 11:18:39.553641
+Irrigation process on at L3: 2023-03-26 11:30:01.550611
+Irrigation process on at L3: 2023-03-26 11:30:27.550924
+Irrigation process on at L3: 2023-03-26 11:30:48.800928
+Irrigation process on at L3: 2023-03-26 11:30:57.730593
+Irrigation process off at L3: 2023-03-26 11:39:39.070762
+Irrigation process off at L3: 2023-03-26 11:40:05.067544
+Irrigation process off at L3: 2023-03-26 11:40:26.350961
+Irrigation process off at L3: 2023-03-26 11:40:35.326333
+Irrigation process on at L4: 2023-03-26 12:00:07.700394
+Irrigation process on at L1: 2023-03-26 12:00:18.270389
+Irrigation process on at L4: 2023-03-26 12:00:28.858409
+Irrigation process on at L1: 2023-03-26 12:00:42.891298
+Irrigation process on at L4: 2023-03-26 12:00:47.565084
+Irrigation process on at L1: 2023-03-26 12:00:54.522633
+Irrigation process on at L4: 2023-03-26 12:00:54.572434
+Irrigation process on at L1: 2023-03-26 12:00:55.910397
+Irrigation process off at L1: 2023-03-26 12:06:43.631198
+Irrigation process off at L1: 2023-03-26 12:07:08.249305
+Irrigation process off at L1: 2023-03-26 12:07:19.901147
+Irrigation process off at L1: 2023-03-26 12:07:21.331075
+Irrigation process off at L4: 2023-03-26 12:09:45.721008
+Irrigation process off at L4: 2023-03-26 12:10:06.904169
+Irrigation process off at L4: 2023-03-26 12:10:25.621055
+Irrigation process off at L4: 2023-03-26 12:10:32.611022
+Irrigation process on at L1: 2023-03-26 14:00:11.990396
+Irrigation process on at L1: 2023-03-26 14:00:24.325306
+Irrigation process on at L1: 2023-03-26 14:00:25.809880
+Irrigation process on at L2: 2023-03-26 14:00:33.719436
+Irrigation process on at L2: 2023-03-26 14:00:34.413379
+Irrigation process on at L2: 2023-03-26 14:00:42.696213
+Irrigation process on at L2: 2023-03-26 14:00:47.080588
+Irrigation process on at L1: 2023-03-26 14:00:47.940343
+Irrigation process off at L1: 2023-03-26 14:06:37.426409
+Irrigation process off at L1: 2023-03-26 14:06:49.721542
+Irrigation process off at L1: 2023-03-26 14:06:51.152586
+Irrigation process off at L1: 2023-03-26 14:07:13.291823
+Irrigation process off at L2: 2023-03-26 14:18:32.822091
+Irrigation process off at L2: 2023-03-26 14:18:33.514548
+Irrigation process off at L2: 2023-03-26 14:18:41.791076
+Irrigation process off at L2: 2023-03-26 14:18:46.183097
+Irrigation process on at L3: 2023-03-26 14:30:10.770399
+Irrigation process on at L3: 2023-03-26 14:30:33.481173
+Irrigation process on at L3: 2023-03-26 14:30:42.370563
+Irrigation process on at L3: 2023-03-26 14:30:44.416921
+Irrigation process off at L3: 2023-03-26 14:39:48.283165
+Irrigation process off at L3: 2023-03-26 14:40:11.084140
+Irrigation process off at L3: 2023-03-26 14:40:19.901012
+Irrigation process off at L3: 2023-03-26 14:40:22.022139
+Irrigation process on at L4: 2023-03-26 15:00:14.340391
+Irrigation process on at L4: 2023-03-26 15:00:33.080601
+Irrigation process on at L4: 2023-03-26 15:00:38.567647
+Irrigation process on at L4: 2023-03-26 15:00:52.170386
+Irrigation process off at L4: 2023-03-26 15:09:52.371015
+Irrigation process off at L4: 2023-03-26 15:10:11.091015
+Irrigation process off at L4: 2023-03-26 15:10:16.591017
+Irrigation process off at L4: 2023-03-26 15:10:30.190973
+Irrigation process on at L1: 2023-03-26 16:00:17.640401
+Irrigation process on at L1: 2023-03-26 16:00:41.491419
+Irrigation process on at L1: 2023-03-26 16:00:54.200400
+Irrigation process on at L1: 2023-03-26 16:00:56.300386
+Irrigation process off at L1: 2023-03-26 16:06:43.002878
+Irrigation process off at L1: 2023-03-26 16:07:06.857605
+Irrigation process off at L1: 2023-03-26 16:07:19.552499
+Irrigation process off at L1: 2023-03-26 16:07:21.736387
+Irrigation process on at L2: 2023-03-26 17:00:39.680381
+Irrigation process on at L2: 2023-03-26 17:00:39.830341
+Irrigation process on at L2: 2023-03-26 17:00:48.349251
+Irrigation process on at L2: 2023-03-26 17:00:52.647606
+Irrigation process off at L2: 2023-03-26 17:18:38.781016
+Irrigation process off at L2: 2023-03-26 17:18:38.930578
+Irrigation process off at L2: 2023-03-26 17:18:47.451537
+Irrigation process off at L2: 2023-03-26 17:18:51.680957
+Irrigation process on at L3: 2023-03-26 17:30:17.804988
+Irrigation process on at L3: 2023-03-26 17:30:26.580989
+Irrigation process on at L3: 2023-03-26 17:30:28.831081
+Irrigation process on at L3: 2023-03-26 17:30:53.556007
+Irrigation process off at L3: 2023-03-26 17:39:55.341079
+Irrigation process off at L3: 2023-03-26 17:40:04.183466
+Irrigation process off at L3: 2023-03-26 17:40:06.433507
+Irrigation process off at L3: 2023-03-26 17:40:31.158532
+Irrigation process on at L1: 2023-03-26 18:00:11.540395
+Irrigation process on at L4: 2023-03-26 18:00:18.830308
+Irrigation process on at L4: 2023-03-26 18:00:23.040390
+Irrigation process on at L1: 2023-03-26 18:00:24.380055
+Irrigation process on at L1: 2023-03-26 18:00:25.730462
+Irrigation process on at L4: 2023-03-26 18:00:37.460476
+Irrigation process on at L1: 2023-03-26 18:00:47.240700
+Irrigation process on at L4: 2023-03-26 18:00:58.530396
+Irrigation process off at L1: 2023-03-26 18:06:36.971308
+Irrigation process off at L1: 2023-03-26 18:06:49.730420
+Irrigation process off at L1: 2023-03-26 18:06:51.171971
+Irrigation process off at L1: 2023-03-26 18:07:12.676438
+Irrigation process off at L4: 2023-03-26 18:09:56.933106
+Irrigation process off at L4: 2023-03-26 18:10:01.134799
+Irrigation process off at L4: 2023-03-26 18:10:15.502508
+Irrigation process off at L4: 2023-03-26 18:10:36.550875
+Irrigation process on at L1: 2023-03-26 20:00:17.851364
+Irrigation process on at L1: 2023-03-26 20:00:41.160406
+Irrigation process on at L2: 2023-03-26 20:00:44.370385
+Irrigation process on at L2: 2023-03-26 20:00:45.892593
+Irrigation process on at L2: 2023-03-26 20:00:54.040997
+Irrigation process on at L1: 2023-03-26 20:00:54.811637
+Irrigation process on at L1: 2023-03-26 20:00:55.372749
+Irrigation process on at L2: 2023-03-26 20:00:58.516454
+Irrigation process off at L1: 2023-03-26 20:06:43.287298
+Irrigation process off at L1: 2023-03-26 20:07:06.511118
+Irrigation process off at L1: 2023-03-26 20:07:20.224806
+Irrigation process off at L1: 2023-03-26 20:07:20.808060
+Irrigation process off at L2: 2023-03-26 20:18:43.471233
+Irrigation process off at L2: 2023-03-26 20:18:44.941167
+Irrigation process off at L2: 2023-03-26 20:18:53.089831
+Irrigation process off at L2: 2023-03-26 20:18:57.531056
+Irrigation process on at L3: 2023-03-26 20:30:02.605351
+Irrigation process on at L3: 2023-03-26 20:30:10.984766
+Irrigation process on at L3: 2023-03-26 20:30:12.981142
+Irrigation process on at L3: 2023-03-26 20:30:38.820412
+Irrigation process off at L3: 2023-03-26 20:39:40.208067
+Irrigation process off at L3: 2023-03-26 20:39:48.586778
+Irrigation process off at L3: 2023-03-26 20:39:50.541137
+Irrigation process off at L3: 2023-03-26 20:40:16.341371
+Irrigation process on at L4: 2023-03-26 21:00:03.820393
+Irrigation process on at L4: 2023-03-26 21:00:07.580255
+Irrigation process on at L4: 2023-03-26 21:00:21.980416
+Irrigation process on at L4: 2023-03-26 21:00:43.492361
+Irrigation process off at L4: 2023-03-26 21:09:41.921024
+Irrigation process off at L4: 2023-03-26 21:09:45.590959
+Irrigation process off at L4: 2023-03-26 21:10:00.082623
+Irrigation process off at L4: 2023-03-26 21:10:21.541002
+Irrigation process on at L1: 2023-03-27 10:00:13.899142
+Irrigation process on at L1: 2023-03-27 10:00:26.790800
+Irrigation process on at L1: 2023-03-27 10:00:34.504663
+Irrigation process on at L1: 2023-03-27 10:00:49.535875
+Irrigation process on at L1: 2023-03-27 10:00:49.611678
+Irrigation process off at L1: 2023-03-27 10:06:39.331258
+Irrigation process on at L1: 2023-03-27 10:06:39.578171
+Irrigation process off at L1: 2023-03-27 10:06:52.216278
+Irrigation process off at L1: 2023-03-27 10:06:59.952688
+Irrigation process off at L1: 2023-03-27 10:07:14.971063
+Irrigation process off at L1: 2023-03-27 10:07:15.041904
+Irrigation process off at L1: 2023-03-27 10:13:05.012773
+Irrigation process on at L2: 2023-03-27 11:00:15.800640
+Irrigation process on at L2: 2023-03-27 11:00:16.411484
+Irrigation process on at L2: 2023-03-27 11:00:26.569358
+Irrigation process on at L2: 2023-03-27 11:00:29.261880
+Irrigation process on at L2: 2023-03-27 11:00:30.281944
+Irrigation process off at L2: 2023-03-27 11:19:31.904815
+Irrigation process off at L2: 2023-03-27 11:19:32.511360
+Irrigation process off at L2: 2023-03-27 11:19:42.693389
+Irrigation process off at L2: 2023-03-27 11:19:45.361386
+Irrigation process off at L2: 2023-03-27 11:19:46.289411
+Irrigation process on at L3: 2023-03-27 11:30:10.253002
+Irrigation process on at L3: 2023-03-27 11:30:23.087815
+Irrigation process on at L3: 2023-03-27 11:30:24.851287
+Irrigation process on at L3: 2023-03-27 11:30:29.773360
+Irrigation process on at L3: 2023-03-27 11:30:49.390660
+Irrigation process off at L3: 2023-03-27 11:39:47.828778
+Irrigation process off at L3: 2023-03-27 11:40:00.635427
+Irrigation process off at L3: 2023-03-27 11:40:02.411994
+Irrigation process off at L3: 2023-03-27 11:40:07.296898
+Irrigation process off at L3: 2023-03-27 11:40:26.993343
+Irrigation process on at L1: 2023-03-27 12:00:05.201297
+Irrigation process on at L1: 2023-03-27 12:00:09.361338
+Irrigation process on at L4: 2023-03-27 12:00:18.355622
+Irrigation process on at L4: 2023-03-27 12:00:19.040744
+Irrigation process on at L1: 2023-03-27 12:00:19.681488
+Irrigation process on at L1: 2023-03-27 12:00:20.112008
+Irrigation process on at L4: 2023-03-27 12:00:30.397790
+Irrigation process on at L4: 2023-03-27 12:00:34.501816
+Irrigation process on at L1: 2023-03-27 12:00:57.500646
+Irrigation process on at L4: 2023-03-27 12:00:58.051668
+Irrigation process off at L1: 2023-03-27 12:06:30.541078
+Irrigation process off at L1: 2023-03-27 12:06:34.730506
+Irrigation process off at L1: 2023-03-27 12:06:45.080949
+Irrigation process off at L1: 2023-03-27 12:06:45.548078
+Irrigation process off at L1: 2023-03-27 12:07:22.853401
+Irrigation process off at L4: 2023-03-27 12:09:56.380615
+Irrigation process off at L4: 2023-03-27 12:09:57.143021
+Irrigation process off at L4: 2023-03-27 12:10:08.500618
+Irrigation process off at L4: 2023-03-27 12:10:12.605383
+Irrigation process off at L4: 2023-03-27 12:10:36.074963
+On: 2023-03-27 15:40:16.163091
+On: 2023-03-27 15:52:02.095576
+On: 2023-03-27 16:08:29.519409
+On: 2023-03-27 16:08:39.114649
+On: 2023-03-27 16:25:05.407753
+On: 2023-03-27 16:57:01.935259
+On: 2023-03-27 16:59:56.460602
+On: 2023-03-28 14:43:01.876595
+On: 2023-03-28 15:08:53.722100
+On: 2023-03-28 16:24:47.678667
+On: 2023-03-28 16:26:26.947988
+Irrigation process on at L1: 2023-03-28 16:36:17.856798
+On: 2023-03-28 16:39:56.566628
+On: 2023-03-28 16:41:09.734701
+On: 2023-03-28 16:42:25.821908
+On: 2023-03-28 16:42:54.154687
+On: 2023-03-28 16:44:18.468818
+On: 2023-03-28 16:46:11.344094
+On: 2023-03-28 16:51:07.083686
+On: 2023-03-28 17:39:58.206507
+On: 2023-03-28 17:42:03.844711
+On: 2023-03-28 17:44:09.156832
+Irrigation process on at L1: 2023-03-28 18:23:34.359286
+On: 2023-03-28 18:26:12.303638
+Irrigation process on at L1: 2023-03-28 18:26:33.512148
+Irrigation process on at L1: 2023-03-28 18:30:14.454547
+On: 2023-03-28 18:35:31.406836
+Irrigation process on at L1: 2023-03-28 18:35:56.212101
+On: 2023-03-28 19:26:57.653572
+On: 2023-03-28 23:19:07.277992
+On: 2023-03-28 23:31:39.563135
+On: 2023-03-28 23:44:32.056527
+On: 2023-03-28 23:50:50.876507
+On: 2023-03-29 00:11:47.745123
+On: 2023-03-29 01:21:03.744787
+Irrigation process on at L1: 2023-03-29 04:51:20.332404
+Irrigation process off at L1: 2023-03-29 04:58:01.782268
+Irrigation process on at L1: 2023-03-29 07:50:08.460751
+Irrigation process off at L1: 2023-03-29 07:56:49.983867
+Irrigation process on at L1: 2023-03-29 08:47:52.572355
+Irrigation process off at L1: 2023-03-29 08:54:34.052713
+Irrigation process on at L1: 2023-03-29 09:44:36.122065
+On: 2023-03-29 09:46:41.986414
+Irrigation process on at L1: 2023-03-29 09:46:56.092967
+Irrigation process off at L1: 2023-03-29 09:51:17.641943
+Irrigation process off at L1: 2023-03-29 09:53:37.529079
+Irrigation process on at L1: 2023-03-29 10:18:17.743996
+Irrigation process off at L1: 2023-03-29 10:24:59.251830
+Irrigation process on at L1: 2023-03-29 10:37:03.491700
+Irrigation process on at L1: 2023-03-29 10:38:29.134091
+Irrigation process on at L1: 2023-03-29 10:39:52.277325
+Irrigation process on at L1: 2023-03-29 10:42:12.090791
+Irrigation process on at L1: 2023-03-29 10:43:02.891824
+Irrigation process on at L1: 2023-03-29 10:48:13.034692
+Irrigation process on at L1: 2023-03-29 10:50:04.644476
+Irrigation process on at L1: 2023-03-29 10:52:46.402581
+Irrigation process on at L1: 2023-03-29 11:10:08.141681
+Irrigation process on at L3: 2023-03-29 11:12:08.455935
+Irrigation process off at L1: 2023-03-29 11:16:49.572271
+Irrigation process on at L1: 2023-03-29 11:16:49.674947
+Irrigation process off at L3: 2023-03-29 11:22:50.513913
+Irrigation process on at L3: 2023-03-29 11:22:50.602535
+Irrigation process off at L1: 2023-03-29 11:23:31.151827
+Irrigation process off at L3: 2023-03-29 11:33:32.606912
+Irrigation process on at L4: 2023-03-29 11:42:10.264524
+Irrigation process on at L1: 2023-03-29 11:42:31.961675
+Irrigation process off at L1: 2023-03-29 11:49:13.369851
+Irrigation process off at L4: 2023-03-29 11:54:18.122334
+Irrigation process on at L1: 2023-03-29 12:16:14.569001
+Irrigation process off at L1: 2023-03-29 12:22:56.071491
+Irrigation process on at L1: 2023-03-29 12:48:57.321810
+Irrigation process off at L1: 2023-03-29 12:55:38.821890
+Irrigation process on at L3: 2023-03-29 13:36:44.409776
+Irrigation process on at L3: 2023-03-29 13:39:44.536875
+Irrigation process on at L3: 2023-03-29 13:40:45.371049
+On: 2023-03-29 13:42:02.585855
+Irrigation process on at L3: 2023-03-29 13:44:34.471988
+Irrigation process on at L3: 2023-03-29 13:50:11.845248
+Irrigation process on at L3: 2023-03-29 13:50:53.751848
+Irrigation process off at L3: 2023-03-29 14:01:35.828667
+Irrigation process on at L4: 2023-03-29 14:06:53.552554
+Irrigation process off at L4: 2023-03-29 14:19:01.421162
+On: 2023-03-29 15:03:31.739515
+On: 2023-03-29 15:05:47.424148
+On: 2023-03-29 15:57:14.610598
+On: 2023-03-29 16:25:23.420071
+On: 2023-03-30 14:39:13.623847
+Calculating Kc for Line L2: 2023-03-30 14:39:14.496254
+New Kc for Line L2: 1.98
+On: 2023-03-30 14:39:39.191078
+Calculating Kc for Line L2: 2023-03-30 14:39:39.908201
+New Kc for Line L2: 1.98
+On: 2023-03-30 14:40:38.140309
+Calculating Kc for Line L2: 2023-03-30 14:40:38.862746
+New Kc for Line L2: 1.98
+On: 2023-03-30 14:43:07.491127
+Calculating Kc for Line L2: 2023-03-30 14:43:08.303135
+New Kc for Line L2: 1.98
+                                                                                                               On: 2023-03-30 14:51:33.073605
+Calculating Kc for Line L2: 2023-03-30 14:51:34.117270
+New Kc for Line L2: 1.98
+On: 2023-03-30 15:05:35.502351
+Calculating Kc for Line L2: 2023-03-30 15:05:36.564545
+New Kc for Line L2: 1.98
+On: 2023-04-03 08:37:39.711115
+Calculating Kc for Line L2: 2023-04-03 08:37:43.164764
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:40:05.469249
+Calculating Kc for Line L2: 2023-04-03 08:40:06.311474
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:44:18.497627
+Calculating Kc for Line L2: 2023-04-03 08:44:19.462870
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:46:23.731673
+Calculating Kc for Line L2: 2023-04-03 08:46:24.597926
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:47:21.236224
+Calculating Kc for Line L2: 2023-04-03 08:47:22.469748
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:48:10.164448
+Calculating Kc for Line L2: 2023-04-03 08:48:11.406755
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:49:11.454255
+Calculating Kc for Line L2: 2023-04-03 08:49:12.171139
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:52:31.127724
+Calculating Kc for Line L2: 2023-04-03 08:52:32.577269
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:56:05.525173
+On: 2023-04-03 08:57:54.069182
+Calculating Kc for Line L2: 2023-04-03 08:57:55.033309
+New Kc for Line L2: 2.013
+On: 2023-04-03 08:58:59.838605
+On: 2023-04-03 08:59:16.511884
+Calculating Kc for Line L2: 2023-04-03 08:59:17.617284
+New Kc for Line L2: 2.013
+On: 2023-04-03 09:03:28.301398
+Calculating Kc for Line L2: 2023-04-03 09:03:29.338029
+New Kc for Line L2: 2.013
+Calculating Kc for Line L3: 2023-04-03 09:03:29.397168
+New Kc for Line L3: 0.642
+On: 2023-04-03 09:04:16.414938
+On: 2023-04-03 09:12:36.149639
+On: 2023-04-03 09:47:15.085563
+On: 2023-04-03 10:01:55.233192
+On: 2023-04-03 10:14:35.400126
+On: 2023-04-03 10:19:44.138072
+On: 2023-04-03 10:48:15.948940
+On: 2023-04-04 08:52:32.757078
+Calculating Kc for Line L2: 2023-04-04 08:52:33.693221
+New Kc for Line L2: 2.533
+Calculating Kc for Line L3: 2023-04-04 08:52:33.761070
+New Kc for Line L3: 0.76
+On: 2023-04-04 14:53:46.540925
+On: 2023-04-04 16:03:03.790037
+On: 2023-04-04 16:21:30.212569
+On: 2023-04-04 16:47:00.085017
+On: 2023-04-04 18:31:40.955362
+On: 2023-04-04 18:17:42.998863
+On: 2023-04-04 18:18:00.748516
+                               On: 2023-04-04 18:17:43.386138
+On: 2023-04-06 12:29:19.673267
+On: 2023-04-06 12:38:24.057317
+On: 2023-04-06 12:46:18.245433
+On: 2023-04-06 12:49:49.801961
+Calculating Kc for Line L2: 2023-04-06 12:49:50.665094
+New Kc for Line L2: 2.356
+Calculating Kc for Line L3: 2023-04-06 12:49:50.696157
+New Kc for Line L3: 0.642
+On: 2023-04-06 13:16:16.434498
+On: 2023-04-06 16:41:31.883336
+On: 2023-04-06 17:00:05.181236
+On: 2023-04-07 14:28:37.840052
+On: 2023-04-07 14:40:40.433233
+On: 2023-04-07 14:49:08.727771
+On: 2023-04-07 14:52:16.637913
+On: 2023-04-07 14:59:51.822123
+On: 2023-04-07 15:09:26.300474
+On: 2023-04-12 15:47:49.254890
+On: 2023-04-13 00:14:55.880901
+On: 2023-04-13 00:26:57.070281
+On: 2023-04-13 00:28:05.291324
+On: 2023-04-13 00:30:26.543102
+On: 2023-04-13 00:33:27.215627
+On: 2023-04-13 00:48:11.526085
+On: 2023-04-13 01:31:27.948853
+On: 2023-04-13 01:39:45.304458
+On: 2023-04-14 01:24:03.537979
+On: 2023-04-14 01:27:58.212854
+On: 2023-04-14 01:28:30.820911
+On: 2023-04-14 01:29:36.420100
+On: 2023-04-14 01:30:41.565575
+On: 2023-04-14 01:36:20.176594
+On: 2023-04-14 01:37:35.120539
+On: 2023-04-14 01:39:03.075593
+On: 2023-04-14 01:40:14.770217
+On: 2023-04-14 01:42:27.506095
+On: 2023-04-14 01:42:44.931031
+On: 2023-04-14 01:43:10.422020
+On: 2023-04-14 01:43:34.835807
+On: 2023-04-14 01:44:35.832687
+On: 2023-04-14 01:46:24.238255
+On: 2023-04-14 01:47:17.022119
+On: 2023-04-14 01:48:29.998555
+On: 2023-04-14 01:50:11.568817
+On: 2023-04-14 01:50:50.486809
+On: 2023-04-14 01:52:08.136462
+On: 2023-04-14 01:52:19.913862
+On: 2023-04-14 01:52:30.982562
+On: 2023-04-14 01:52:38.695173
+On: 2023-04-14 01:52:59.450575
+On: 2023-04-14 01:53:05.882814
+On: 2023-04-14 02:04:30.163812
+On: 2023-04-14 02:06:45.206661
+On: 2023-04-14 02:07:23.721079
+On: 2023-04-14 02:07:41.162600
+On: 2023-04-14 02:07:53.027506
+On: 2023-04-14 02:10:50.707882
+On: 2023-04-14 02:12:03.951887
+On: 2023-04-14 02:12:44.620988
+On: 2023-04-14 02:13:22.465336
+On: 2023-04-14 02:13:52.883940
+On: 2023-04-14 02:14:38.764373
+On: 2023-04-14 02:15:19.953422
+On: 2023-04-14 02:16:16.934869
+On: 2023-04-14 02:18:02.806359
+On: 2023-04-14 02:18:51.067865
+On: 2023-04-14 02:20:19.216120
+On: 2023-04-14 02:20:56.144444
+On: 2023-04-14 02:21:25.649864
+On: 2023-04-14 02:21:53.318928
+On: 2023-04-14 02:22:47.399591
+On: 2023-04-14 02:23:54.254382
+On: 2023-04-14 02:24:23.149678
+On: 2023-04-14 02:25:46.605000
+On: 2023-04-14 02:26:24.777670
+On: 2023-04-14 02:27:09.288989
+On: 2023-04-14 02:27:46.957505
+On: 2023-04-14 02:28:16.682744
+On: 2023-04-14 02:28:44.804039
+On: 2023-04-14 02:30:09.863102
+On: 2023-04-14 02:30:22.726195
+On: 2023-04-14 02:33:38.643641
+On: 2023-04-14 02:36:10.276298
+On: 2023-04-14 02:37:13.569215
+On: 2023-04-14 02:37:43.538625
+On: 2023-04-14 02:44:19.701504
+On: 2023-04-14 02:44:30.852021
+On: 2023-04-14 02:45:47.982497
+On: 2023-04-14 02:50:03.823961
+On: 2023-04-14 02:54:51.340887
+On: 2023-04-14 03:00:53.920882
+On: 2023-04-14 03:02:42.733262
+On: 2023-04-14 03:04:46.230910
+On: 2023-04-14 03:06:51.602363
+On: 2023-04-14 03:07:50.520029
+On: 2023-04-14 03:11:20.427468
+On: 2023-04-14 05:37:38.380806
+On: 2023-04-14 05:37:49.661429
+On: 2023-04-14 05:38:18.406794
+On: 2023-04-14 07:01:55.187208
+On: 2023-04-15 02:25:11.284622
+On: 2023-04-17 01:49:04.442769
+Off:2023-04-17 01:51:03.751186
+On: 2023-04-17 01:51:24.546789
+On: 2023-04-17 01:55:17.839398
+On: 2023-04-17 01:55:34.696855
+On: 2023-04-17 01:56:10.599346
+On: 2023-04-17 01:56:50.740068
+On: 2023-04-17 03:14:19.786774
+On: 2023-04-17 12:58:30.656637
+On: 2023-04-17 12:59:24.939586
+On: 2023-04-17 13:01:51.714013
+On: 2023-04-17 12:58:13.396349
+On: 2023-04-17 12:58:08.189458
+On: 2023-04-17 12:58:05.120136
+On: 2023-04-18 16:06:04.950921
+On: 2023-04-18 16:31:25.778733
+On: 2023-04-18 16:39:14.785977
+On: 2023-04-18 17:17:06.013436
+On: 2023-04-18 20:08:28.691315
+Irrigation process on at L1: 2023-04-18 20:18:16.282811
+Irrigation process on at L1: 2023-04-18 20:19:03.074770
+Irrigation process off at L1: 2023-04-18 21:06:19.982700
+On: 2023-04-19 09:18:42.553304
+Irrigation process on at L1: 2023-04-19 19:27:15.464532
+Irrigation process off at L1: 2023-04-19 19:41:49.173823
+Irrigation process on at L1: 2023-04-19 19:41:49.245490
+Irrigation process off at L1: 2023-04-19 19:56:22.869192
+Irrigation process on at L1: 2023-04-19 19:59:23.019888
+Irrigation process off at L1: 2023-04-19 20:13:56.724343
+Irrigation process on at L1: 2023-04-19 20:31:57.214320
+Irrigation process off at L1: 2023-04-19 20:46:30.833987
+Irrigation process on at L1: 2023-04-19 21:04:31.521553
+Irrigation process off at L1: 2023-04-19 21:19:05.131227
+On: 2023-04-20 10:16:15.310659
+On: 2023-04-20 10:20:45.341219
+On: 2023-04-20 10:25:13.300569
+On: 2023-04-20 10:29:45.220477
+On: 2023-04-20 10:32:09.304667
+On: 2023-04-20 10:33:48.332336
+On: 2023-04-20 10:36:28.047529
+On: 2023-04-20 10:41:00.864044
+On: 2023-04-20 10:41:54.143475
+On: 2023-04-20 10:42:21.579625
+On: 2023-04-20 10:44:00.467333
+On: 2023-04-20 10:44:36.653281
+On: 2023-04-20 10:46:31.008135
+On: 2023-04-20 11:32:27.117086
+On: 2023-04-20 11:33:34.491435
+On: 2023-04-20 11:33:55.386516
+On: 2023-04-20 12:13:31.867390
+On: 2023-04-20 12:15:23.617177
+On: 2023-04-20 12:26:54.523695
+On: 2023-04-20 12:31:56.899691
+On: 2023-04-20 12:33:42.202526
+On: 2023-04-20 12:35:48.023377
+On: 2023-04-20 12:36:15.191430
+On: 2023-04-20 12:38:06.731211
+On: 2023-04-20 12:40:15.739100
+On: 2023-04-20 12:41:14.861612
+On: 2023-04-20 12:45:03.230838
+On: 2023-04-20 12:47:10.184591
+On: 2023-04-20 12:54:03.355199
+On: 2023-04-20 13:05:36.510011
+On: 2023-04-20 13:20:31.173867
+On: 2023-04-20 13:21:35.749177
+On: 2023-04-20 13:23:55.752206
+On: 2023-04-20 13:31:42.521311
+On: 2023-04-20 13:33:20.788244
+On: 2023-04-20 13:34:14.050760
+Off:2023-04-20 13:34:21.692512
+On: 2023-04-20 13:36:02.995270
+Off:2023-04-20 13:36:09.614582
+On: 2023-04-20 16:11:21.759395
+Off:2023-04-20 16:12:33.094787
+On: 2023-04-20 16:30:29.915431
+On: 2023-04-20 16:32:53.296374
+Off:2023-04-20 16:42:33.918510
+On: 2023-04-20 16:44:16.687395
+On: 2023-04-20 16:54:09.706697
+On: 2023-04-20 16:56:20.126818
+On: 2023-04-20 16:57:31.088279
+On: 2023-04-20 17:24:34.579289
+Off:2023-04-20 17:24:46.892840
+On: 2023-04-20 17:29:50.565599
+On: 2023-04-21 00:04:09.783873
+On: 2023-04-21 00:11:45.800879
+On: 2023-04-20 23:59:28.771268
+On: 2023-04-20 18:13:54.209379
+Off:2023-04-20 18:14:09.299075
+On: 2023-04-20 18:15:49.178912
+Off:2023-04-20 18:17:54.208993
+On: 2023-04-20 18:20:28.737160
+On: 2023-04-21 10:20:33.496347
+On: 2023-04-23 20:44:32.247515
+Off:2023-04-23 20:44:41.868798
+On: 2023-04-23 21:03:28.513403
+On: 2023-04-23 21:06:08.880197
+On: 2023-04-23 21:07:32.763302
+Off:2023-04-23 21:33:02.238555
+On: 2023-04-25 16:37:47.606663
+On: 2023-04-25 16:43:40.296002
+Off:2023-04-25 16:43:49.909093
+On: 2023-04-25 16:45:53.367992
+Off:2023-04-25 16:46:02.259956
+On: 2023-04-25 16:56:21.671952
+Off:2023-04-25 16:56:36.755605
+On: 2023-04-25 16:58:04.649397
+Off:2023-04-25 20:15:10.170176
+On: 2023-04-25 20:15:25.261993
+Off:2023-04-25 22:05:33.408784
+On: 2023-04-25 22:05:47.594408
+Off:2023-04-25 22:08:40.679554
+On: 2023-04-25 22:08:55.459614
+Off:2023-04-25 22:11:07.324647
+On: 2023-04-25 22:11:25.084086
+Off:2023-04-25 22:13:20.457979
+On: 2023-04-25 22:13:35.265617
+Off:2023-04-25 22:17:17.175031
+On: 2023-04-25 22:17:32.383496
+Off:2023-04-25 22:24:44.540157
+On: 2023-04-25 22:25:00.127757
+Off:2023-04-25 22:25:59.852423
+On: 2023-04-25 22:26:21.087699
+On: 2023-04-25 22:27:13.395962
+Off:2023-04-25 22:34:39.278151
+On: 2023-04-25 22:34:54.731939
+Off:2023-04-25 22:36:44.631545
+On: 2023-04-25 22:36:59.945185
+On: 2023-04-25 22:37:57.160006
+On: 2023-04-25 22:50:29.485443
+On: 2023-04-25 22:51:58.705568
+On: 2023-04-25 22:56:04.670934
+On: 2023-04-25 23:20:26.469820
+On: 2023-04-26 14:53:53.764393
+On: 2023-04-26 14:58:06.660980
+On: 2023-04-26 15:15:36.219772
+Off:2023-04-26 15:23:21.996174
+On: 2023-04-26 15:23:28.890878
+Off:2023-04-26 15:50:26.253651
+On: 2023-04-26 17:29:26.071759
+Off:2023-04-27 14:02:34.229227
+On: 2023-04-27 14:23:03.405606
+On: 2023-04-27 15:30:20.753686
+On: 2023-05-02 16:06:08.632345
+On: 2023-05-02 16:07:54.919016
+On: 2023-05-02 16:15:29.332068
+On: 2023-05-02 16:21:15.424165
+On: 2023-05-02 16:22:58.226288
+On: 2023-05-02 16:27:10.381444
+On: 2023-05-02 16:30:24.173281
+On: 2023-05-02 16:32:49.082976
+On: 2023-05-02 16:33:40.812659
+On: 2023-05-02 16:35:23.550220
+On: 2023-05-02 16:37:19.805053
+On: 2023-05-02 16:48:41.045627
+On: 2023-05-02 16:55:44.742655
+On: 2023-05-03 15:23:16.920585
+On: 2023-05-03 15:24:35.822351
+On: 2023-05-03 15:26:26.084361
+On: 2023-05-03 15:32:28.613938
+On: 2023-05-03 15:32:49.181909
+On: 2023-05-03 15:33:34.078949
+On: 2023-05-03 15:38:11.822113
+On: 2023-05-03 15:39:08.325046
+On: 2023-05-03 15:40:31.121322
+On: 2023-05-03 15:41:54.077699
+On: 2023-05-05 17:22:53.270314
+On: 2023-05-08 09:17:40.469733
+On: 2023-05-08 09:31:20.576981
+On: 2023-05-08 09:34:25.503772
+On: 2023-05-08 09:37:02.971671
+Off:2023-05-08 10:35:16.825800
+On: 2023-05-15 11:46:48.028246
+On: 2023-05-16 14:53:16.586723
+Off:2023-05-16 15:03:28.705424
+On: 2023-05-16 15:04:23.348009
+Off:2023-05-16 15:06:42.886214
+On: 2023-05-26 09:40:33.541841
+On: 2023-05-26 09:43:05.350177
+On: 2023-05-26 09:43:11.578803
+On: 2023-05-26 10:10:20.011900
+On: 2023-05-26 10:10:32.229461
+On: 2023-05-26 10:11:32.707398
+On: 2023-05-26 10:12:13.168644
+On: 2023-05-26 10:13:04.197186
+On: 2023-05-26 10:42:54.475691
+On: 2023-05-26 10:43:23.214141
+On: 2023-05-26 11:22:18.563655
+On: 2023-05-29 09:45:31.251064
+On: 2023-05-29 09:50:14.737363
+On: 2023-05-29 09:50:26.654703
+On: 2023-05-29 09:50:38.482326
+On: 2023-05-29 09:50:55.743708
+On: 2023-05-29 09:55:23.191067
+On: 2023-05-29 13:02:57.503270
+On: 2023-05-29 13:03:12.195215
+On: 2023-05-29 13:03:57.973014
+On: 2023-05-29 15:38:49.706591
+On: 2023-05-31 10:11:01.399438
+On: 2023-05-31 10:12:14.249210
+On: 2023-05-31 10:50:22.535455
+On: 2023-05-31 10:53:37.223673
+On: 2023-05-31 11:14:45.463699
+On: 2023-05-31 11:16:06.998803
+On: 2023-05-31 11:16:27.793409
+On: 2023-05-31 11:17:00.567887
+On: 2023-06-19 09:58:03.717950
+On: 2023-06-19 09:59:12.553001
+On: 2023-06-19 10:08:00.258840
+On: 2023-06-19 10:08:31.632810
+On: 2023-06-19 10:09:08.875757
+On: 2023-06-19 10:11:34.495488
+On: 2023-06-19 10:12:15.908845
+On: 2023-06-19 10:16:01.035402
+On: 2023-06-19 10:16:37.422270
+On: 2023-06-19 10:17:23.546367
+On: 2023-06-19 10:17:51.218002
+On: 2023-06-19 10:19:13.440864
+On: 2023-06-19 10:19:45.229001
+On: 2023-06-19 10:20:45.526993
+On: 2023-06-19 10:21:52.824117
+On: 2023-06-19 11:27:44.046041
+Off:2023-06-19 11:44:55.410067
+On: 2023-07-06 08:49:03.630590
+On: 2023-07-06 08:40:26.878305
+Off:2023-07-06 08:40:43.759654
+On: 2023-07-06 08:40:49.667710
+On: 2023-07-06 08:41:59.485612
+Off:2023-07-06 08:43:11.237880
+On: 2023-07-06 08:43:19.251652
+On: 2023-07-06 08:38:06.576783
+Off:2023-07-06 08:38:11.825434
+On: 2023-07-06 08:38:17.878001
+On: 2023-07-06 08:36:28.716065
+On: 2023-07-06 08:36:54.682400
+On: 2023-07-06 08:37:03.679486
+Off:2023-07-06 08:37:22.103698
+On: 2023-07-06 08:37:40.282898
+On: 2023-07-06 09:32:26.666785
+On: 2023-07-06 09:40:27.385758
+On: 2023-07-06 11:21:39.599965
+On: 2023-07-06 11:27:01.572576
+On: 2023-07-06 11:31:08.045909
+On: 2023-07-06 11:35:07.268585
+On: 2023-07-06 11:37:25.652729
+On: 2023-07-06 11:48:33.865466
+On: 2023-07-06 11:49:11.190691
+On: 2023-07-06 11:49:51.800085
+On: 2023-07-06 12:09:14.206702
+On: 2023-07-06 12:21:47.486688
+On: 2023-07-06 12:41:32.338287
+On: 2023-07-06 12:57:26.156928
+On: 2023-07-06 13:54:26.906410
+On: 2023-07-06 13:58:50.543382
+Off:2023-07-06 13:59:17.968679
+On: 2023-07-06 13:59:38.974890
+Off:2023-07-06 14:31:05.840609
+On: 2023-07-06 14:37:49.543067
+On: 2023-07-06 15:06:23.627433
+On: 2023-07-06 15:16:32.051172
+On: 2023-07-06 15:29:39.844323
+Off:2023-07-06 15:30:02.250721
+On: 2023-07-06 15:33:29.394920
+On: 2023-07-06 15:36:07.768795
+On: 2023-07-06 15:41:30.715728
+On: 2023-07-10 14:49:56.777392
+On: 2023-07-10 15:45:07.349946
+On: 2023-07-10 15:45:37.828229
+On: 2023-07-10 15:47:39.698116
+On: 2023-07-10 15:52:03.813015
+On: 2023-07-10 15:55:28.655202
+On: 2023-07-10 16:01:19.191047
+On: 2023-07-10 16:02:15.807262
+On: 2023-07-10 16:03:58.790206
+On: 2023-07-10 16:04:57.956230
+On: 2023-07-10 16:06:03.170048
+On: 2023-07-10 16:06:29.811855
+On: 2023-07-10 16:08:51.744273
+On: 2023-07-10 16:11:16.684277
+On: 2023-07-10 16:13:31.979983
+On: 2023-07-10 16:15:11.080983
+On: 2023-07-10 16:15:59.455409
+On: 2023-07-10 16:16:39.751900
+On: 2023-07-10 16:17:08.349771
+On: 2023-07-10 16:21:16.626515
+On: 2023-07-10 16:22:12.570267
+On: 2023-07-10 16:26:15.054421
+On: 2023-07-10 16:27:20.193859
+On: 2023-07-10 16:28:39.955396
+On: 2023-07-10 16:54:33.646069
+On: 2023-07-10 18:05:40.406586
+On: 2023-07-10 18:07:18.320878
+On: 2023-07-10 18:09:08.717003
+On: 2023-07-10 18:10:27.414466
+On: 2023-07-10 18:11:48.200223
+On: 2023-07-10 18:13:08.975887
+On: 2023-07-10 18:19:33.386219
+On: 2023-07-10 18:21:55.397134
+On: 2023-07-10 18:19:59.017409
+On: 2023-07-10 18:21:23.774241
+On: 2023-07-10 18:21:58.743145
+On: 2023-07-10 18:25:41.008322
+On: 2023-07-10 18:26:32.802012
+On: 2023-07-10 18:29:28.789026
+On: 2023-07-10 18:30:02.698000
+On: 2023-07-10 18:33:28.656251
+On: 2023-07-10 18:50:32.364552
+On: 2023-07-10 19:29:04.942369
+On: 2023-07-10 19:29:42.185790
+On: 2023-07-10 19:38:04.429135
+On: 2023-07-10 19:45:25.070170
+On: 2023-07-10 19:48:06.869635
+On: 2023-07-10 19:49:02.474766
+On: 2023-07-10 19:49:53.653130
+On: 2023-07-10 19:54:51.103458
+On: 2023-07-10 19:55:22.105561
+On: 2023-07-10 19:56:04.603525
+On: 2023-07-10 20:11:12.570265
+On: 2023-07-10 20:11:40.590755
+On: 2023-07-10 20:11:56.804394
+On: 2023-07-10 20:12:52.956523
+On: 2023-07-10 20:15:13.114846
+On: 2023-07-10 20:20:19.220368
+On: 2023-09-06 12:01:21.849709
+On: 2023-09-06 12:04:12.256459
+On: 2023-09-06 12:06:34.870112
+On: 2023-09-06 13:00:42.086106
+On: 2023-09-18 15:24:25.552236
+On: 2023-09-18 15:29:28.788875
+On: 2023-09-19 14:49:16.086275
+On: 2023-09-19 14:50:13.504655
+On: 2023-09-19 16:35:54.518974
+On: 2023-09-20 10:40:15.058988
+On: 2023-09-20 12:55:38.273685
+On: 2023-09-22 12:32:19.691675
+On: 2023-09-25 09:57:29.134468
+Off:2023-09-25 09:59:28.156544
+On: 2023-09-25 10:05:52.537651
+On: 2023-09-25 12:02:10.898123
+On: 2023-09-25 12:02:59.840053
+On: 2023-09-25 12:03:09.727165
+On: 2023-09-25 12:13:49.489627
+On: 2023-09-25 12:14:12.584554
+On: 2023-09-25 12:15:16.580420
+On: 2023-09-25 12:17:34.975789
+On: 2023-09-25 12:32:20.624850
+On: 2023-09-25 12:34:24.948296
+On: 2023-09-25 12:35:37.139449
+On: 2023-09-25 13:00:49.349899
+On: 2023-09-25 13:01:44.851293
+On: 2023-09-25 13:02:25.456944
+On: 2023-09-25 13:08:19.081034
+On: 2023-09-25 13:10:00.464198
+On: 2023-09-25 13:10:11.999484
+On: 2023-09-25 13:10:24.425053
+On: 2023-09-25 13:12:38.908150
+Off:2023-09-25 13:25:08.950037
+On: 2023-09-25 13:26:40.617382
+On: 2023-09-25 13:28:43.511612
+On: 2023-09-25 13:37:12.369705
+On: 2023-09-25 13:38:37.242439
+Off:2023-09-25 13:39:26.499097
+On: 2023-09-25 13:41:31.480461
+On: 2023-09-25 14:02:41.823804
+On: 2023-09-25 14:02:50.598772
+On: 2023-09-25 14:03:22.330430
+On: 2023-09-26 16:10:11.107321
+On: 2023-09-26 16:11:29.608003
+On: 2023-09-26 16:20:42.357684
+On: 2023-09-26 16:20:50.422385
+On: 2023-09-26 16:22:08.818689
+On: 2023-09-26 16:22:34.907468
+On: 2023-09-26 16:23:14.243062
+On: 2023-09-26 16:25:46.037664
+On: 2023-09-26 16:25:57.629245
+On: 2023-09-26 16:27:10.510530
+On: 2023-09-26 16:27:34.535481
+On: 2023-09-26 16:27:48.217158
+On: 2023-09-26 16:29:34.357378
+On: 2023-09-26 16:29:57.506314
+On: 2023-09-26 16:30:45.772645
+On: 2023-09-26 17:07:32.969745
+On: 2023-09-26 17:08:11.380814
+On: 2023-09-26 17:09:29.259190
+On: 2023-09-26 17:24:06.469081
+On: 2023-09-26 17:27:40.863788
+On: 2023-09-26 17:28:33.530933
+On: 2023-09-26 17:29:46.020835
+On: 2023-09-26 17:30:24.727557
+On: 2023-09-26 17:31:03.720864
+On: 2023-09-26 17:34:37.985761
+On: 2023-09-29 10:05:31.412213
+On: 2023-09-29 11:41:32.461851
+On: 2023-09-29 11:44:37.958995
+On: 2023-09-29 11:44:57.695467
+On: 2023-09-29 11:46:07.616558
+On: 2023-09-29 11:47:30.645303
+On: 2023-09-29 11:47:48.435995
+On: 2023-09-29 12:06:33.279871
+On: 2023-10-02 15:10:21.933651
+On: 2023-10-02 15:16:13.987340
+On: 2023-10-02 15:17:52.773274
+On: 2023-10-02 15:20:02.538132
+On: 2023-10-02 15:27:15.675601
+On: 2023-10-02 15:42:19.440974
+On: 2023-10-02 15:50:17.600469
+On: 2023-10-02 15:55:30.577883
+On: 2023-10-02 16:00:07.084145
+On: 2023-10-02 16:01:35.863337
+On: 2023-10-02 16:02:56.442521
+On: 2023-10-02 16:07:15.650911
+On: 2023-10-02 16:09:46.934330
+On: 2023-10-02 16:17:15.400820
+On: 2023-10-02 16:20:46.914652
+On: 2023-10-02 16:24:11.684011
+On: 2023-10-03 17:37:58.031159
+On: 2023-10-04 09:29:32.461385
+On: 2023-10-04 09:30:28.832650
+On: 2023-10-04 09:30:53.331712
+On: 2023-10-04 09:32:14.882637
+On: 2023-10-04 09:34:11.503817
+On: 2023-10-04 09:35:19.526636
+On: 2023-10-04 09:38:33.268701
+On: 2023-10-04 09:39:55.365940
+On: 2023-10-04 09:42:22.540700
+On: 2023-10-04 09:45:03.425926
+On: 2023-10-04 15:40:12.090168
+On: 2023-10-04 15:43:42.480505
+On: 2023-10-09 15:25:23.651756
+On: 2023-10-09 16:03:48.481030
+On: 2023-10-09 16:09:49.163768
+On: 2023-10-09 16:23:36.925847
+On: 2023-10-09 16:28:23.277950
+On: 2023-10-09 16:18:57.875340
+On: 2023-10-09 16:30:45.439650
+On: 2023-10-09 19:02:11.170385
+On: 2023-10-09 19:06:21.884850
+On: 2023-10-09 19:10:35.520587
+On: 2023-10-09 19:43:25.710195
+On: 2023-10-09 19:46:18.855747
+On: 2023-10-11 13:24:01.631139
+On: 2023-10-11 14:02:21.376657
+Off:2023-10-11 14:16:42.308512
+On: 2023-10-11 14:23:23.142072
+On: 2023-10-11 14:32:30.775662
+On: 2023-10-11 14:42:55.221718
+Off:2023-10-11 15:21:43.597833
+On: 2023-10-11 15:27:49.035375
+On: 2023-10-11 16:22:35.440796
+Off:2023-10-11 16:24:07.243855
+On: 2023-10-11 16:24:12.227028
+On: 2023-10-13 15:17:44.309297
+On: 2023-10-14 08:17:40.047292
+On: 2023-10-14 08:19:35.320216
+On: 2023-11-01 00:02:28.399295
+On: 2023-10-14 08:17:40.477700
+On: 2023-10-31 00:15:22.900841
+On: 2023-10-31 00:02:47.738977
+On: 2023-10-31 00:10:06.838518
+On: 2023-10-31 00:27:23.705841
+On: 2023-10-31 00:28:47.704356
+On: 2023-10-31 00:41:38.381780
+On: 2023-10-31 00:25:45.498338
+On: 2023-10-31 14:59:48.468331
+On: 2023-10-31 15:08:14.758663
+On: 2023-10-31 15:28:44.278057
+On: 2023-11-06 14:16:35.708241
+On: 2023-11-06 14:25:43.475873
+On: 2023-11-06 14:38:41.130109
+On: 2023-11-06 14:39:34.329970
+On: 2023-11-06 14:50:33.504069
+On: 2023-11-20 12:46:36.468153
+On: 2024-01-19 12:42:43.136335
+On: 2024-01-19 12:43:42.657004
+On: 2024-01-19 12:56:15.323233
+On: 2024-01-19 13:31:54.053056
+On: 2024-01-19 13:36:35.325002

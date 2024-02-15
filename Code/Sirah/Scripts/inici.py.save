@@ -1,0 +1,4 @@
+import os
+
+os.system(python3 /home/pi/Sirah/Python/ManageIrrigationProcessess.py)
+os.system(/usr/bin/chromium-browser --window-size=480,320 --kiosk --disable-overlay-scrollbar --noerrdialogs --incognito --window-position=0,0 --app=http://127.0.0.1:1880)
