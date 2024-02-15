@@ -68,6 +68,16 @@ This project was developed by GRIC (Group of Reasearch and Innovation in Constru
   </tr>
 </table>
 
+<table style="width:100%; border-spacing: 20px;">
+  <tr>
+    <td align="center" style="padding: 10px; border: none;"><img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px; border: none;"><img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px; border: none;"><img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px; border: none;"><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
+  </tr>
+</table>
+
+
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
 
 <img src="images/funding_sirah.jpg" alt="Funding" style="width: auto; height: 50px;">
