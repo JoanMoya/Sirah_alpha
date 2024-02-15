@@ -1,4 +1,5 @@
 # Sirah alpha
+![Descripción de la imagen](ruta/a/la/imagen.jpg)
 
 ## Description
 The goal of the SIRAH project is to develop products and technologies from laboratory settings to market scale.
