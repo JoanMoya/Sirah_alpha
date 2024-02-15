@@ -84,18 +84,3 @@ This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Un
 
 ## License
 This project is licensed under the [License type]. See the LICENSE.md file for more details.
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
-    </div>
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
-    </div>
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="ruta/a/imagen3.jpg" alt="Descripción de la imagen 3" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1;">
-        <img src="ruta/a/imagen4.jpg" alt="Descripción de la imagen 4" style="width: 100%; height: auto;">
-    </div>
-</div>
