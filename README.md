@@ -1,4 +1,5 @@
 # Sirah alpha
+<img src="images/enciams_recir_2.jpg" alt="Sirah" style="width: 200px; height: 150px;">
 ![Sirah](images/enciams_recir_2.jpg)
 
 ## Description
