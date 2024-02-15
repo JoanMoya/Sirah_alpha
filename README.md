@@ -17,10 +17,12 @@ possible risks and impacts on the installation of the product. While the increas
 of access to fresh produce might signify an improvement, the acceptability to install these production systems
 in a person's defined as “NIMBY”.
 </p>
+
 This repository contains the Sirah Alpha project, which offers the following functionalities:
 - XXXX
 - XXXX
 - XXXX
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -55,7 +57,7 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 5. Create a pull request on GitHub.
 
 ## Credits
-This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB [Team name or developer].
+This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB.
 
 <img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
 <img src="images/UPC.jpg" alt="UPC" style="width: auto; height: 50px;">
@@ -64,6 +66,7 @@ This project was developed by GRIC (Group of Reasearch and Innovation in Constru
 <img src="images/UAB.jpg" alt="UAB" style="width: auto; height: 50px;">
 
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
+
 <img src="images/funding_sirah.jpg" alt="Funding" style="width: auto; height: 50px;">
 
 ## License
