@@ -47,7 +47,8 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 5. Create a pull request on GitHub.
 
 ## Credits
-This project was developed by [Team name or developer].
+This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB [Team name or developer].
+![Funding](images/funding_sirah.jpg)
 
 ## License
 This project is licensed under the [License type]. See the LICENSE.md file for more details.
