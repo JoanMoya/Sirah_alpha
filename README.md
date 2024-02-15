@@ -2,6 +2,7 @@
 ![Descripción de la imagen](ruta/a/la/imagen.jpg)
 
 ## Description
+<p style="text-align: justify;">
 The goal of the SIRAH project is to develop products and technologies from laboratory settings to market scale.
 The project is based on 2 products: SIRAH alpha and SIRH beta.
 SIRAH is an irrigation module at a prototype level development. The irrigation system has a nutrient and water
@@ -17,7 +18,7 @@ This repository contains the Sirah Alpha project, which offers the following fun
 - XXXX
 - XXXX
 - XXXX
-
+</p>
 ## Repository Structure
 The repository is organized as follows:
 - `docs/`: Contains the project documentation.
@@ -48,6 +49,7 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 
 ## Credits
 This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB [Team name or developer].
+This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
 ![Funding](images/funding_sirah.jpg)
 
 ## License
