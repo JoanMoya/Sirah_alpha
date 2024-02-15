@@ -2,7 +2,6 @@
 <p align="center">
   <img src="images/enciams_recir_2.jpg" alt="Sirah" style="width: 400px; height: 300px;">
 </p>
-![Sirah](images/enciams_recir_2.jpg)
 
 ## Description
 <p style="text-align: justify;">
@@ -58,7 +57,7 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 ## Credits
 This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB [Team name or developer].
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
-![Funding](images/funding_sirah.jpg)
+<img src="images/funding_sirah.jpg" alt="Funding" style="width: 400px; height: 300px;">
 
 ## License
 This project is licensed under the [License type]. See the LICENSE.md file for more details.
