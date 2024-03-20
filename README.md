@@ -37,13 +37,14 @@ The repository is organized as follows:
 
 ## Installation
 To install and run this project, follow these steps:
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Execute [necessary installation commands].
+1. Copy the folder `code/Sirah` in your raspberry
+2. Compile and send to the arduino the file 280223_Sirah_arduino.ino located in `Code/Sirah/Arduino/ProgramaArduino/280223_Sirah_arduino`
+3. Import the nodered flows in your raspberry located in `Node_Red_Flows`
 
 ## Usage
 To use this project, follow these steps:
-1. [Instructions for using the project].
+1. Turn on the raspberry
+2. Configure the irrigation schedule
 
 ## Documentation
 - [General documentation](docs/general.md)
@@ -61,34 +62,7 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 ## Credits
 This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB.
 
-<table style="width:100%; border = "0";">
-  <tr>
-    <td align="center" style="padding: 10px";><img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
-  </tr>
-</table>
-
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 10px";><img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px";><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
-  </tr>
-</table>
-
-<table style="width:100%; border-spacing: 20px;">
-  <tr>
-    <td align="center" style="padding: 10px; border: 0;"><img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px; border: 0;"><img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px; border: 0;"><img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"></td>
-    <td align="center" style="padding: 10px; border: 0;"><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
-  </tr>
-</table>
-
-<img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
+<p> <img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"> &nbsp &nbsp <img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"> &nbsp &nbsp <img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"> &nbsp &nbsp <img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"> </p>
 
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
 
