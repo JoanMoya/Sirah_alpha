@@ -19,17 +19,19 @@ in a person's defined as “NIMBY”.
 </p>
 
 This repository contains the Sirah Alpha project, which offers the following functionalities:
-- XXXX
-- XXXX
-- XXXX
+- Scheduled irrigation
+- Manual operation of irrigation valves
+- Historical data of valves operation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Repository Structure
 The repository is organized as follows:
+- `code/Sirah`: Contains the scripts to be installed in the raspberry and arduino
+- `Node_Red_Flows`: Contains the flows to be imported in the raspberry's node red 
 - `docs/`: Contains the project documentation.
-- `src/`: Contains the project source code.
+- `images/`: Contains the project images.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -59,6 +61,14 @@ Contributions are welcome! If you wish to contribute to this project, follow the
 ## Credits
 This project was developed by GRIC (Group of Reasearch and Innovation in Construction) from UPC (Universitat Politècnica de Catalunya and SOSTENIPRA from UAB.
 
+<table style="width:100%; border = "0";">
+  <tr>
+    <td align="center" style="padding: 10px";><img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px";><img src="images/UPC.png" alt="UPC" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px";><img src="images/SOSTENIPRA.png" alt="SOSTENIPRA" style="width: auto; height: 50px;"></td>
+    <td align="center" style="padding: 10px";><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
+  </tr>
+</table>
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -77,6 +87,8 @@ This project was developed by GRIC (Group of Reasearch and Innovation in Constru
     <td align="center" style="padding: 10px; border: 0;"><img src="images/UAB.png" alt="UAB" style="width: auto; height: 50px;"></td>
   </tr>
 </table>
+
+<img src="images/GRIC.png" alt="GRIC" style="width: auto; height: 50px;">
 
 This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Union“NextGenerationEU”/PRTR with the reference number PDC2021-121054-C21.
 
