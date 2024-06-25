@@ -47,9 +47,8 @@ To use this project, follow these steps:
 2. Configure the irrigation schedule
 
 ## Documentation
-- [General documentation](docs/general.md)
+- [Sirah Alpha scheme](docs/sirah-Model.pdf)
 - [User manual](docs/user_manual.md)
-- [API Reference](docs/api_reference.md)
 
 ## Contribution
 Contributions are welcome! If you wish to contribute to this project, follow these steps:
