@@ -68,4 +68,4 @@ This project was funded by MCIN/AEI/10.13039/501100011033 and by the European Un
 <img src="images/funding_sirah.jpg" alt="Funding" style="width: auto; height: 50px;">
 
 ## License
-This project is licensed under the [License type]. See the LICENSE.md file for more details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
