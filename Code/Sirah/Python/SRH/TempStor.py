@@ -143,4 +143,3 @@ class TempStor:
         average=(Taverage, Haverage, Co2average, UVaverage, Heightaverage)
         
         return average
-

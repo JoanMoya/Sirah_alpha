@@ -331,16 +331,3 @@ class StatusActuators:
     def Actions(self):
         self.message= str(int(self.PumpStatus)) + "," + str(int(self.FillingValveStatus)) + "," + str(int(self.RecirculationValveStatus)) + "," + str(int(self.LeachedValveStatus)) + "," +str(int(self.Nutrient1Status))+ "," + str(int(self.Nutrient2Status)) + "," + str(int(self.Nutrient3Status)) + "," +str(int(self.L1Status))+","+str(int(self.L2Status))+","+str(int(self.L3Status))+","+str(int(self.L4Status))+ "," +str(int(self.L5Status))+","+str(int(self.L6Status))+","+str(int(self.L7Status))+","+str(int(self.L8Status))
         return self.message
-        
-
-#l=StatusActuators()
-#l.UpdateAll()
-#t=l.Actions()
-
-#print(t)
-#Line1=Line("L1",2,3)
-#Line1.getall()
-#print("------------------------")
-#print(Line1.Path)
-#print(Line1.Dripper)
-     

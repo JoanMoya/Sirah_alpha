@@ -4,7 +4,6 @@ import csv
 
 class RedZone:
     file = "/home/pi/Desktop/Sirah/Auxiliars/ConfigurationFiles/"
-    #file = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\Sirah\\Auxiliars\\ConfigurationFiles\\"
     def __init__(self):
         # Define la hora de inicio permitida (14:00) y la hora de finalización permitida (12:00)
         self.BeginningRedHour = datetime.strptime('12:00', '%H:%M')

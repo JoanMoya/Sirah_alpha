@@ -5,7 +5,6 @@ from SRH.RedZone import RedZone
 
 class LogScheduledIrrigation:
     file = "/home/pi/Desktop/Sirah/"
-    #file = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\Sirah\\"
     def __init__(self):
         #self.TestOn()
         # Define la hora de inicio permitida (14:00) y la hora de finalización permitida (12:00)
@@ -154,10 +153,3 @@ class LogScheduledIrrigation:
         state = int(file.read())
         file.close()
         return state
-        
-
-#l=LogScheduledIrrigation()
-#l.IrrigationActions()
-#l.SirahOff()
-
-#print("fin")

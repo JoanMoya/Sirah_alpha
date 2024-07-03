@@ -5,7 +5,7 @@ import os
 
 class Line:
     file = "/home/pi/Desktop/Sirah/Auxiliars/L/"
-    #file = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\Sirah\\Auxiliars\\L\\"
+
     def __init__(self, line): #1
         self.LineName= "L"+str(line) #"L"+"1"
         self.LineNumber = line
@@ -279,13 +279,3 @@ class Line:
         file=open(self.Path + "Irrigation.txt")
         self.irrigation=float(file.read())
         file.close()
-
-
-#L1=Line("L1")
-#print(L1.getFinalHour())
-#print(L1.day())
-#Line1=Line("L1",2,3)
-#Line1.getall()
-#print("------------------------")
-#print(Line1.Path)
-#print(Line1.Dripper)

@@ -6,9 +6,7 @@ from SRH.Line import Line
 
 class IrrigationProcess:
     file = "/home/pi/Desktop/Sirah/Auxiliars/L/"
-    #file = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\Sirah\\Auxiliars\\L\\"
     log = "/home/pi/Desktop/Sirah/"
-    #log = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\Sirah\\"
 
     def __init__(self, line): #1
         self.LineName= "L" + str(line) #L1

@@ -11,7 +11,6 @@ from SRH.WaterLevel import WaterLevel
 import subprocess
 
 
-
 WL = WaterLevel()
 
 PID=SRH.PID(0)
@@ -70,7 +69,6 @@ while(True):
     ser.flushOutput()
     ser.write(msg)
 
-  
 
     time.sleep(0.2)
     ser.write(send_string.encode('latin-1'))
@@ -96,15 +94,6 @@ while(True):
     line_array = line.split(',')
     print(line_array)
     cm = WL.SaveCurrentLevel()
-    
-    
-    
-    
-
-        
-
-
-
 
 
     WL.Fill_Tank(AS)

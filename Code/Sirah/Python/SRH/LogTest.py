@@ -58,9 +58,3 @@ class LogTest:
             return True
         else:
             return False
-        
-
-#l=LogSirah()
-#l.SirahOff()
-
-#print("fin")

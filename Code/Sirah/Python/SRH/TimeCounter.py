@@ -5,9 +5,7 @@ import csv
 
 class TimeCounter:
     file = "/home/pi/Desktop/Sirah/Auxiliars/"
-    #file = "C:/Users/marcel/Documents/GitHub/sirah/Sirah/Auxiliars/"
     log = "/home/pi/Desktop/Sirah/"
-    #log = "C:/Users/marcel/Documents/GitHub/sirah/Sirah/"
 
     def __init__(self):
         self.Actuators=[]
@@ -88,23 +86,3 @@ class TimeCounter:
 
     def ResetTemporalTime(self, actuator):
         self.Actuators[actuator][2]=datetime.now()
-
-#t=TimeCounter()
-
-#print(t.Actuators[0][2])
-
-#x="1,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
-
-#t.CheckTime(x)
-#time.sleep(2)
-#t.CheckTime([1,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
-#time.sleep(10)
-#t.CheckTime([1,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
-#time.sleep(20)
-#x="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
-#t.CheckTime(x)
-
-#for actuator in range(15):
-#    t.Actuators[actuator][0]
-#    with open(t.Actuators[actuator][0], 'w+') as f:
-#        f.write("00:00:00")

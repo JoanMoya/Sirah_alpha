@@ -3,7 +3,6 @@ from datetime import datetime
 
 class UpdateETC:
     file = "/home/pi/Desktop/Sirah/"
-    #file = "C:\\Users\\marcel\\Documents\\GitHub\\sirah\\280223_Sirah\\"
     def __init__(self):
         pass
 
@@ -42,21 +41,3 @@ class UpdateETC:
         log.write("New Kc for Line " + Line + ": " + str(Kc))
         log.write("\n")
         log.close()
-
-
-#a=UpdateETC()
-#print(a.ReadLastUpdate())
-#print(a.CheckLastUpdate())
-#if a.CheckLastUpdate():
-#    print("hola")
-#else:
-#    print ("merda")
-#a.WriteLastUpdate()
-#print(a.ReadLastUpdate())
-#print(a.CheckLastUpdate())
-#a.WriteKcLog(str(32))
-
-#if a.CheckLastUpdate():
-#    print("hola")
-#else:
-#   print ("merda")

@@ -5,7 +5,6 @@ AS=SRH.StatusActuators()
 log=SRH.LogTest()
 WL=SRH.WaterLevel()
 
-#WL.SaveCurrentLevel()
 last_level = WL.ReadLastLevel()
 print(last_level)
 minimum_level = WL.GetMinimumLevel()

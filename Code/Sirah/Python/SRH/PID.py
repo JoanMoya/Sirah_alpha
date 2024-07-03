@@ -53,10 +53,3 @@ class PID:
             remove(self.pathFile)
         else:
             pass
-
-#L=PID("hola")
-#L.savePID()
-#L.processRunning()
-#print(L.getPID())
-#time.sleep(60)
-#L.kill()

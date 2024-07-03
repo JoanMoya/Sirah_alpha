@@ -39,10 +39,3 @@ class LogSirah:
         log=open(self.file + "StatusSirah.txt", "w")
         log.write("0")
         log.close()
-
-        
-
-#l=LogSirah()
-#l.SirahOff()
-
-#print("fin")
